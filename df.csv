@@ -1,0 +1,1848 @@
+,Unnamed: 0,Patient_Unique_ID,Appointment_Unique_ID,Gender,Appointment Day,Age,Distance,Employment_status,Type_of_Treatment,Cost_of_Treatment,Insurance,Show up
+0,0,123,5538115,F,Weekend,53,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1,1,124,5591241,F,Weekend,51,10,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+2,2,125,5512225,F,Weekend,26,4,Employed,Braces,30000-40000,Yes,YES
+3,3,126,5574641,M,Weekday,23,10,Unemployed,Root Canal,6000-10000,No,NO
+4,4,127,5640448,F,Weekday,28,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+5,5,128,5641443,F,Weekday,28,9,Employed,Braces,30000-40000,Yes,NO
+6,6,129,5571884,F,Weekday,55,2,Employed,Dental Implant,30000-40000,Yes,YES
+7,7,130,5520021,F,Weekday,33,10,Employed,Restorations,1500-2500,Yes,NO
+8,8,131,5638356,F,Weekday,12,7,Unemployed,Scaling,1000-3000,No,NO
+9,9,132,5634044,F,Weekday,24,8,Employed,Braces,30000-40000,Yes,NO
+10,10,133,5566118,F,Weekday,35,10,Employed,Extractions,1000-2000,Yes,NO
+11,11,134,5621874,F,Holiday,34,2,Employed,Restorations,1500-2500,Yes,YES
+12,12,135,5537007,M,Holiday,25,12,Employed,Braces,30000-40000,Yes,YES
+13,13,136,5622415,M,Holiday,23,6,Unemployed,Root Canal,6000-10000,No,NO
+14,14,137,5598834,F,Holiday,29,7,Employed,Dental Implant,30000-40000,Yes,NO
+15,15,138,5401782,M,Weekday,32,12,Employed,Restorations,1500-2500,Yes,NO
+16,16,139,5640054,F,Weekday,30,1,Employed,Dental Implant,30000-40000,Yes,YES
+17,17,140,5517649,M,Weekday,52,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+18,18,141,5483274,F,Weekday,29,11,Employed,Dental Implant,30000-40000,Yes,NO
+19,19,142,5422579,F,Weekday,30,9,Employed,Dental Implant,30000-40000,Yes,NO
+20,20,143,5602849,F,Weekday,23,10,Unemployed,Root Canal,6000-10000,No,NO
+21,21,144,5510402,F,Weekday,35,8,Employed,Extractions,1000-2000,Yes,NO
+22,22,145,5601899,F,Weekday,29,10,Employed,Dental Implant,30000-40000,Yes,NO
+23,23,146,5623821,F,Weekday,34,7,Employed,Restorations,1500-2500,Yes,NO
+24,24,147,5525409,F,Weekday,12,4,Unemployed,Scaling,1000-3000,No,YES
+25,25,148,5640705,F,Weekday,34,9,Employed,Restorations,1500-2500,Yes,NO
+26,26,149,5579972,M,Holiday,23,8,Unemployed,Root Canal,6000-10000,No,NO
+27,27,150,5638231,M,Holiday,13,4,Unemployed,Scaling,1000-3000,No,YES
+28,28,151,5629179,F,Holiday,23,3,Unemployed,Root Canal,6000-10000,No,YES
+29,29,152,5626039,M,Weekend,51,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+30,30,153,5525806,F,Weekend,32,10,Employed,Restorations,1500-2500,Yes,YES
+31,31,154,5641908,M,Weekend,43,4,Employed,Root Canal,6000-10000,Yes,YES
+32,32,155,5594094,F,Holiday,23,7,Unemployed,Root Canal,6000-10000,No,NO
+33,33,156,5635637,F,Holiday,25,9,Employed,Braces,30000-40000,Yes,YES
+34,34,157,5639125,F,Weekday,44,9,Employed,Root Canal,6000-10000,Yes,NO
+35,35,158,5523026,F,Weekday,59,6,Employed,Flap Surgery,25000-35000,Yes,NO
+36,36,159,5639232,M,Weekday,37,2,Employed,Extractions,1000-2000,Yes,YES
+37,37,160,5639200,M,Holiday,23,11,Unemployed,Root Canal,6000-10000,No,NO
+38,38,161,5614877,F,Weekend,32,5,Employed,Braces,30000-40000,Yes,NO
+39,39,162,5618148,F,Holiday,14,1,Unemployed,Scaling,1000-3000,No,YES
+40,40,163,5637518,M,Weekend,30,12,Employed,Dental Implant,30000-40000,Yes,YES
+41,41,164,5598599,F,Weekend,29,5,Employed,Dental Implant,30000-40000,Yes,NO
+42,42,165,5600505,F,Weekend,24,11,Employed,Braces,30000-40000,Yes,YES
+43,43,166,5595895,F,Weekend,46,7,Employed,Root Canal,6000-10000,Yes,YES
+44,44,167,5637645,M,Weekend,23,3,Unemployed,Root Canal,6000-10000,No,YES
+45,45,168,5614109,F,Weekend,11,3,Unemployed,Scaling,1000-3000,No,YES
+46,46,169,5489420,F,Weekend,19,7,Unemployed,Restorations,1500-2500,No,NO
+47,47,170,5642751,F,Weekend,37,5,Employed,Extractions,1000-2000,Yes,NO
+48,48,171,5520889,F,Weekend,22,10,Unemployed,Root Canal,6000-10000,No,NO
+49,49,172,5640923,F,Weekend,17,11,Unemployed,Extractions,1000-2000,No,NO
+50,50,173,5641255,F,Weekend,40,4,Employed,Scaling,1000-3000,Yes,YES
+51,51,174,5534479,F,Weekend,29,1,Employed,Dental Implant,30000-40000,Yes,YES
+52,52,175,5565939,F,Weekend,12,4,Unemployed,Scaling,1000-3000,No,YES
+53,53,176,5493991,F,Weekend,34,12,Employed,Restorations,1500-2500,Yes,YES
+54,54,177,5531297,M,Weekend,24,5,Employed,Braces,30000-40000,Yes,NO
+55,55,178,5604093,F,Weekday,23,8,Unemployed,Root Canal,6000-10000,No,NO
+56,56,179,5621836,F,Weekday,45,4,Employed,Root Canal,6000-10000,Yes,YES
+57,57,180,5602148,F,Weekday,26,9,Employed,Braces,30000-40000,Yes,NO
+58,58,181,5638314,F,Weekday,30,9,Employed,Braces,30000-40000,Yes,NO
+59,59,182,5639180,M,Weekday,60,7,Employed,Flap Surgery,25000-35000,Yes,NO
+60,60,183,5638791,M,Weekend,15,12,Unemployed,Extractions,1000-2000,No,NO
+61,61,184,5541181,F,Weekday,23,3,Unemployed,Root Canal,6000-10000,No,YES
+62,62,185,5641073,F,Weekday,25,3,Employed,Braces,30000-40000,Yes,YES
+63,63,186,5618134,F,Weekday,57,5,Employed,Dental Implant,30000-40000,Yes,NO
+64,64,187,5642463,F,Weekday,37,11,Employed,Extractions,1000-2000,Yes,NO
+65,65,188,5387260,M,Weekday,26,9,Employed,Braces,30000-40000,Yes,NO
+66,66,189,5639295,F,Weekday,40,9,Employed,Scaling,1000-3000,Yes,NO
+67,67,190,5583725,F,Weekday,60,1,Employed,Flap Surgery,25000-35000,Yes,YES
+68,68,191,5499423,F,Weekday,19,6,Unemployed,Restorations,1500-2500,No,NO
+69,69,192,5595491,F,Weekday,12,4,Unemployed,Scaling,1000-3000,No,YES
+70,70,193,5537636,F,Weekday,52,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+71,71,194,5635881,F,Weekday,57,2,Employed,Dental Implant,30000-40000,Yes,YES
+72,72,195,5635691,F,Weekday,14,9,Unemployed,Scaling,1000-3000,No,NO
+73,73,196,5587273,M,Weekday,54,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+74,74,197,5639378,F,Weekday,27,10,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+75,75,198,5601359,M,Weekday,46,12,Employed,Root Canal,6000-10000,Yes,NO
+76,76,199,5593986,F,Weekday,29,3,Employed,Dental Implant,30000-40000,Yes,YES
+77,77,200,5631450,F,Weekday,45,11,Employed,Root Canal,6000-10000,Yes,NO
+78,78,201,5642171,F,Weekday,13,1,Unemployed,Extractions,1000-2000,No,YES
+79,79,202,5638466,F,Weekday,56,10,Employed,Dental Implant,30000-40000,Yes,NO
+80,80,203,5489418,F,Weekday,52,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+81,81,204,5576888,F,Weekday,25,5,Employed,Braces,30000-40000,Yes,NO
+82,82,205,5638164,M,Weekday,23,9,Unemployed,Root Canal,6000-10000,No,NO
+83,83,206,5639248,M,Weekday,59,8,Employed,Flap Surgery,25000-35000,Yes,NO
+84,84,207,5634646,F,Weekday,24,11,Employed,Braces,30000-40000,Yes,NO
+85,85,208,5621910,M,Weekday,44,12,Employed,Root Canal,6000-10000,Yes,NO
+86,86,209,5631650,F,Weekday,53,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+87,87,210,5558410,F,Weekday,27,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+88,88,211,5637546,F,Weekday,23,6,Unemployed,Root Canal,6000-10000,No,NO
+89,89,212,5430959,F,Weekday,45,8,Employed,Root Canal,6000-10000,Yes,NO
+90,90,213,5515978,F,Weekday,55,4,Employed,Dental Implant,30000-40000,Yes,YES
+91,91,214,5477527,M,Holiday,60,11,Employed,Flap Surgery,25000-35000,Yes,YES
+92,92,215,5629193,F,Holiday,14,2,Unemployed,Scaling,1000-3000,No,YES
+93,93,216,5550226,M,Holiday,33,11,Employed,Restorations,1500-2500,Yes,YES
+94,94,217,5638491,M,Holiday,32,3,Employed,Restorations,1500-2500,Yes,YES
+95,95,218,5561436,F,Holiday,36,7,Employed,Extractions,1000-2000,Yes,NO
+96,96,219,5631009,F,Holiday,14,7,Unemployed,Scaling,1000-3000,No,NO
+97,97,220,5628374,M,Holiday,37,1,Employed,Extractions,1000-2000,Yes,YES
+98,98,221,5560490,M,Holiday,15,12,Unemployed,Extractions,1000-2000,No,NO
+99,99,222,5638401,M,Weekday,35,3,Employed,Extractions,1000-2000,Yes,YES
+100,100,223,5615523,F,Weekday,23,11,Unemployed,Root Canal,6000-10000,No,NO
+101,101,224,5483431,M,Weekday,31,11,Employed,Restorations,1500-2500,Yes,NO
+102,102,225,5641489,M,Weekday,54,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+103,103,226,5578932,F,Weekday,35,5,Employed,Extractions,1000-2000,Yes,NO
+104,104,227,5638133,F,Weekday,13,11,Unemployed,Scaling,1000-3000,No,NO
+105,105,228,5641392,F,Weekday,34,5,Employed,Restorations,1500-2500,Yes,NO
+106,106,229,5634074,F,Weekday,43,4,Employed,Root Canal,6000-10000,Yes,YES
+107,107,230,5636980,F,Weekday,36,3,Employed,Extractions,1000-2000,Yes,YES
+108,108,231,5629182,F,Weekday,23,2,Unemployed,Root Canal,6000-10000,No,YES
+109,109,232,5590495,M,Weekday,33,4,Employed,Restorations,1500-2500,Yes,YES
+110,110,233,5542660,M,Weekday,23,5,Unemployed,Root Canal,6000-10000,Yes,NO
+111,111,234,5636580,F,Weekday,32,10,Employed,Restorations,1500-2500,Yes,NO
+112,112,235,5638933,F,Weekday,23,4,Unemployed,Root Canal,6000-10000,No,YES
+113,113,236,5641460,F,Weekday,25,8,Employed,Braces,30000-40000,Yes,NO
+114,114,237,5628558,F,Weekday,15,7,Unemployed,Extractions,1000-2000,No,NO
+115,115,238,5638863,M,Holiday,23,5,Unemployed,Root Canal,6000-10000,No,NO
+116,116,239,5499492,F,Holiday,28,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+117,117,240,5624112,F,Holiday,57,10,Employed,Dental Implant,30000-40000,Yes,YES
+118,118,241,5634232,F,Holiday,42,7,Employed,Scaling,1000-3000,Yes,NO
+119,119,242,5532843,F,Holiday,34,9,Employed,Restorations,1500-2500,Yes,YES
+120,120,243,5521736,M,Holiday,37,9,Employed,Extractions,1000-2000,Yes,NO
+121,121,244,5487390,F,Weekday,36,2,Employed,Extractions,1000-2000,Yes,YES
+122,122,245,5617059,F,Weekday,32,6,Employed,Restorations,1500-2500,Yes,NO
+123,123,246,5638396,F,Weekday,58,10,Employed,Flap Surgery,25000-35000,Yes,NO
+124,124,247,5597345,F,Weekday,32,5,Employed,Restorations,1500-2500,Yes,NO
+125,125,248,5537273,M,Weekday,19,5,Unemployed,Braces,30000-40000,No,NO
+126,126,249,5641344,M,Weekday,52,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+127,127,250,5639186,M,Weekday,53,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+128,128,251,5585597,F,Weekday,37,2,Employed,Extractions,1000-2000,Yes,YES
+129,129,252,5604274,M,Weekday,23,1,Unemployed,Root Canal,6000-10000,No,YES
+130,130,253,5637915,F,Weekday,54,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+131,131,254,5498548,M,Weekday,42,6,Employed,Scaling,1000-3000,Yes,NO
+132,132,255,5621135,F,Weekday,26,7,Employed,Braces,30000-40000,Yes,NO
+133,133,256,5618137,F,Weekday,43,11,Employed,Root Canal,6000-10000,Yes,NO
+134,134,257,5604096,F,Weekday,35,6,Employed,Extractions,1000-2000,Yes,NO
+135,135,258,5519036,M,Weekday,51,6,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+136,136,259,5611919,F,Weekday,13,7,Unemployed,Scaling,1000-3000,No,NO
+137,137,260,5521208,F,Weekday,30,11,Employed,Braces,30000-40000,Yes,NO
+138,138,261,5534332,F,Weekday,33,3,Employed,Restorations,1500-2500,Yes,YES
+139,139,262,5505270,F,Weekday,31,10,Employed,Braces,30000-40000,Yes,NO
+140,140,263,5639963,M,Weekday,34,8,Employed,Restorations,1500-2500,Yes,NO
+141,141,264,5639091,M,Weekday,55,4,Employed,Dental Implant,30000-40000,Yes,YES
+142,142,265,5638805,F,Weekday,37,6,Employed,Extractions,1000-2000,Yes,NO
+143,143,266,5617958,M,Weekday,39,5,Employed,Scaling,1000-3000,Yes,NO
+144,144,267,5615015,F,Weekday,19,3,Unemployed,Restorations,1500-2500,No,YES
+145,145,268,5638091,F,Weekday,29,5,Employed,Dental Implant,30000-40000,Yes,NO
+146,146,269,5639757,F,Weekday,57,4,Employed,Dental Implant,30000-40000,Yes,YES
+147,147,270,5611940,F,Weekday,24,11,Employed,Braces,30000-40000,Yes,NO
+148,148,271,5639534,F,Weekday,23,4,Unemployed,Root Canal,6000-10000,No,YES
+149,149,272,5640380,F,Weekday,26,8,Employed,Braces,30000-40000,Yes,NO
+150,150,273,5632906,F,Weekday,41,6,Employed,Scaling,1000-3000,Yes,NO
+151,151,274,5620528,F,Weekday,28,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+152,152,275,5589693,F,Weekday,29,9,Employed,Braces,30000-40000,Yes,NO
+153,153,276,5522443,F,Holiday,37,12,Employed,Extractions,1000-2000,Yes,NO
+154,154,277,5605608,F,Holiday,57,1,Employed,Dental Implant,30000-40000,Yes,YES
+155,155,278,5638127,F,Holiday,51,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+156,156,279,5534661,M,Holiday,25,8,Employed,Braces,30000-40000,Yes,YES
+157,157,280,5640834,F,Holiday,36,12,Employed,Extractions,1000-2000,Yes,NO
+158,158,281,5637498,F,Holiday,25,10,Employed,Braces,30000-40000,Yes,YES
+159,159,282,5628146,M,Holiday,52,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+160,160,283,5637684,M,Holiday,33,1,Employed,Restorations,1500-2500,Yes,YES
+161,161,284,5641781,M,Holiday,24,9,Employed,Braces,30000-40000,Yes,YES
+162,162,285,5641603,M,Holiday,13,7,Unemployed,Scaling,1000-3000,No,NO
+163,163,286,5634239,F,Weekday,18,9,Employed,Restorations,1500-2500,Yes,NO
+164,164,287,5639132,F,Weekday,20,12,Employed,Restorations,1500-2500,Yes,NO
+165,165,288,5537935,F,Weekday,29,3,Employed,Dental Implant,30000-40000,Yes,YES
+166,166,289,5522825,M,Weekday,13,11,Unemployed,Scaling,1000-3000,No,NO
+167,167,290,5623015,M,Weekday,46,7,Employed,Root Canal,6000-10000,Yes,YES
+168,168,291,5555546,F,Weekday,27,12,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+169,169,292,5525717,F,Weekday,43,4,Employed,Root Canal,6000-10000,Yes,YES
+170,170,293,5552638,F,Weekday,46,2,Employed,Root Canal,6000-10000,Yes,YES
+171,171,294,5633219,F,Weekday,43,10,Employed,Root Canal,6000-10000,Yes,NO
+172,172,295,5542464,F,Weekday,55,10,Employed,Dental Implant,30000-40000,Yes,NO
+173,173,296,5574680,F,Weekday,23,5,Unemployed,Root Canal,6000-10000,No,NO
+174,174,297,5452800,M,Weekday,28,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+175,175,298,5387715,F,Weekday,58,3,Employed,Flap Surgery,25000-35000,Yes,YES
+176,176,299,5642481,M,Weekday,25,4,Employed,Braces,30000-40000,Yes,YES
+177,177,300,5574022,M,Weekday,32,4,Employed,Restorations,1500-2500,Yes,YES
+178,178,301,5527925,F,Weekday,35,6,Employed,Extractions,1000-2000,Yes,NO
+179,179,302,5613494,F,Weekday,32,1,Employed,Restorations,1500-2500,Yes,YES
+180,180,303,5452612,F,Weekday,51,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+181,181,304,5639584,F,Weekday,27,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+182,182,305,5577053,F,Weekday,17,11,Unemployed,Extractions,1000-2000,No,NO
+183,183,306,5641806,F,Weekday,22,12,Unemployed,Root Canal,6000-10000,No,NO
+184,184,307,5510420,F,Weekday,26,3,Employed,Braces,30000-40000,Yes,YES
+185,185,308,5476805,F,Weekday,14,7,Unemployed,Scaling,1000-3000,No,NO
+186,186,309,5637468,F,Weekday,23,6,Unemployed,Root Canal,6000-10000,No,NO
+187,187,310,5634080,F,Weekday,19,6,Unemployed,Restorations,1500-2500,No,NO
+188,188,311,5577577,F,Weekday,34,11,Employed,Restorations,1500-2500,Yes,NO
+189,189,312,5534635,M,Weekday,44,2,Employed,Root Canal,6000-10000,Yes,YES
+190,190,313,5641465,F,Weekday,33,4,Employed,Restorations,1500-2500,Yes,YES
+191,191,314,5629126,F,Weekday,27,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+192,192,315,5638148,M,Weekday,16,8,Unemployed,Extractions,1000-2000,No,NO
+193,193,316,5488430,M,Weekday,39,3,Employed,Scaling,1000-3000,Yes,YES
+194,194,317,5626083,F,Weekday,33,6,Employed,Restorations,1500-2500,Yes,NO
+195,195,318,5532842,F,Weekday,26,5,Employed,Braces,30000-40000,Yes,NO
+196,196,319,5631074,M,Weekday,23,2,Unemployed,Root Canal,6000-10000,No,YES
+197,197,320,5536309,F,Weekday,26,9,Employed,Braces,30000-40000,Yes,NO
+198,198,321,5632709,F,Weekday,32,8,Employed,Restorations,1500-2500,Yes,NO
+199,199,322,5545692,F,Weekday,28,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+200,200,323,5579087,M,Weekday,52,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+201,201,324,5594912,F,Weekday,28,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+202,202,325,5477783,M,Weekday,58,10,Employed,Flap Surgery,25000-35000,Yes,NO
+203,203,326,5629183,M,Weekday,38,3,Employed,Extractions,1000-2000,Yes,YES
+204,204,327,5639514,M,Weekday,44,4,Employed,Root Canal,6000-10000,Yes,YES
+205,205,328,5639489,M,Weekday,26,8,Employed,Braces,30000-40000,Yes,NO
+206,206,329,5637808,F,Weekday,23,3,Unemployed,Root Canal,6000-10000,No,YES
+207,207,330,5533154,F,Weekday,18,3,Unemployed,Restorations,1500-2500,No,YES
+208,208,331,5631870,F,Weekday,42,2,Employed,Scaling,1000-3000,Yes,YES
+209,209,332,5534768,F,Weekday,56,2,Employed,Dental Implant,30000-40000,Yes,YES
+210,210,333,5556383,M,Weekday,26,5,Employed,Braces,30000-40000,Yes,NO
+211,211,334,5638709,F,Weekday,33,4,Employed,Restorations,1500-2500,Yes,YES
+212,212,335,5597673,F,Weekday,41,2,Employed,Scaling,1000-3000,Yes,YES
+213,213,336,5593713,F,Weekday,31,6,Employed,Restorations,1500-2500,Yes,NO
+214,214,337,5636249,F,Weekday,12,5,Unemployed,Scaling,1000-3000,No,NO
+215,215,338,5616112,F,Weekday,38,5,Employed,Extractions,1000-2000,Yes,NO
+216,216,339,5571762,M,Weekday,27,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+217,217,340,5532909,M,Weekday,17,4,Unemployed,Extractions,1000-2000,No,YES
+218,218,341,5641363,F,Weekday,35,5,Employed,Extractions,1000-2000,Yes,NO
+219,219,342,5534796,F,Weekday,23,3,Unemployed,Root Canal,6000-10000,No,YES
+220,220,343,5428864,M,Weekday,39,6,Employed,Scaling,1000-3000,Yes,NO
+221,221,344,5638594,M,Weekday,45,5,Employed,Root Canal,6000-10000,Yes,YES
+222,222,345,5629172,F,Weekday,41,1,Employed,Scaling,1000-3000,Yes,YES
+223,223,346,5631339,F,Weekday,23,7,Unemployed,Root Canal,6000-10000,No,NO
+224,224,347,5631109,F,Weekday,31,1,Employed,Restorations,1500-2500,Yes,YES
+225,225,348,5597491,M,Weekday,34,4,Employed,Restorations,1500-2500,Yes,YES
+226,226,349,5553924,M,Weekday,27,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+227,227,350,5638390,F,Weekday,56,4,Employed,Dental Implant,30000-40000,Yes,YES
+228,228,351,5516904,F,Weekday,15,8,Unemployed,Extractions,1000-2000,No,NO
+229,229,352,5522184,F,Weekday,24,7,Employed,Braces,30000-40000,Yes,NO
+230,230,353,5546661,F,Weekday,28,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+231,231,354,5562620,F,Weekday,42,6,Employed,Scaling,1000-3000,Yes,NO
+232,232,355,5627308,F,Weekday,23,6,Unemployed,Root Canal,6000-10000,No,NO
+233,233,356,5478546,M,Weekday,17,3,Unemployed,Extractions,1000-2000,No,YES
+234,234,357,5511566,F,Weekday,21,2,Unemployed,Root Canal,6000-10000,No,YES
+235,235,358,5503003,M,Weekday,29,3,Employed,Dental Implant,30000-40000,Yes,YES
+236,236,359,5515938,F,Weekday,27,1,Employed,Braces,30000-40000,Yes,YES
+237,237,360,5530673,F,Weekday,20,10,Unemployed,Restorations,1500-2500,No,NO
+238,238,361,5618136,F,Holiday,34,11,Employed,Restorations,1500-2500,Yes,YES
+239,239,362,5616082,F,Holiday,11,4,Unemployed,Scaling,1000-3000,No,YES
+240,240,363,5387722,M,Holiday,42,8,Employed,Scaling,1000-3000,Yes,YES
+241,241,364,5638011,M,Holiday,40,2,Employed,Scaling,1000-3000,Yes,YES
+242,242,365,5596673,F,Holiday,34,1,Employed,Restorations,1500-2500,Yes,YES
+243,243,366,5561450,F,Holiday,51,7,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+244,244,367,5472441,F,Holiday,30,9,Employed,Dental Implant,30000-40000,Yes,YES
+245,245,368,5639198,F,Holiday,35,3,Employed,Extractions,1000-2000,Yes,YES
+246,246,369,5603923,F,Holiday,30,8,Employed,Braces,30000-40000,Yes,YES
+247,247,370,5622419,M,Weekday,58,4,Employed,Flap Surgery,25000-35000,Yes,YES
+248,248,371,5590514,F,Weekday,25,3,Employed,Braces,30000-40000,Yes,YES
+249,249,372,5506249,M,Weekday,58,3,Employed,Flap Surgery,25000-35000,Yes,YES
+250,250,373,5530393,M,Weekday,24,7,Employed,Braces,30000-40000,Yes,NO
+251,251,374,5638834,F,Weekday,26,9,Employed,Braces,30000-40000,Yes,NO
+252,252,375,5641770,M,Weekday,25,4,Employed,Braces,30000-40000,Yes,YES
+253,253,376,5611961,F,Weekday,40,4,Employed,Scaling,1000-3000,Yes,YES
+254,254,377,5638420,F,Weekday,12,1,Employed,Scaling,1000-3000,Yes,YES
+255,255,378,5628693,M,Weekday,51,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+256,256,379,5536318,F,Weekday,26,6,Employed,Braces,30000-40000,Yes,NO
+257,257,380,5641490,M,Weekday,52,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+258,258,381,5638727,F,Weekday,63,9,Unemployed,Restorations,1500-2500,No,NO
+259,259,382,5638779,F,Weekday,9,5,Unemployed,Scaling,1000-3000,No,NO
+260,260,383,5618130,F,Weekday,35,3,Employed,Extractions,1000-2000,Yes,YES
+261,261,384,5640178,F,Weekday,59,9,Employed,Flap Surgery,25000-35000,Yes,NO
+262,262,385,5603978,F,Weekday,33,1,Employed,Restorations,1500-2500,Yes,YES
+263,263,386,5604332,F,Weekday,18,12,Unemployed,Restorations,1500-2500,No,NO
+264,264,387,5599678,F,Weekday,27,7,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+265,265,388,5609446,F,Weekday,27,7,Employed,Braces,30000-40000,Yes,NO
+266,266,389,5636853,F,Weekday,60,6,Employed,Flap Surgery,25000-35000,Yes,NO
+267,267,390,5631113,F,Weekday,60,7,Employed,Flap Surgery,25000-35000,Yes,NO
+268,268,391,5583166,F,Weekday,36,5,Employed,Extractions,1000-2000,Yes,NO
+269,269,392,5637655,F,Weekday,12,2,Unemployed,Scaling,1000-3000,No,YES
+270,270,393,5639473,F,Weekday,15,9,Unemployed,Extractions,1000-2000,No,NO
+271,271,394,5641850,M,Weekday,58,5,Employed,Flap Surgery,25000-35000,Yes,NO
+272,272,395,5503789,F,Weekday,25,7,Employed,Braces,30000-40000,Yes,NO
+273,273,396,5638040,M,Weekday,23,4,Unemployed,Root Canal,6000-10000,No,YES
+274,274,397,5632317,F,Weekday,28,6,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+275,275,398,5489022,M,Weekday,70,12,Unemployed,Scaling,1000-3000,No,NO
+276,276,399,5641564,F,Weekday,40,1,Employed,Scaling,1000-3000,Yes,YES
+277,277,400,5574764,M,Weekday,24,3,Employed,Braces,30000-40000,Yes,YES
+278,278,401,5630238,F,Weekday,57,5,Employed,Dental Implant,30000-40000,Yes,NO
+279,279,402,5591384,M,Weekday,41,1,Employed,Scaling,1000-3000,Yes,YES
+280,280,403,5639481,F,Weekday,44,3,Employed,Root Canal,6000-10000,Yes,YES
+281,281,404,5609550,F,Weekday,31,4,Employed,Restorations,1500-2500,Yes,YES
+282,282,405,5631875,M,Weekday,39,1,Employed,Scaling,1000-3000,Yes,YES
+283,283,406,5594483,F,Weekday,38,11,Employed,Extractions,1000-2000,Yes,NO
+284,284,407,5633149,M,Weekday,13,1,Unemployed,Scaling,1000-3000,No,YES
+285,285,408,5640561,F,Weekday,38,4,Employed,Extractions,1000-2000,Yes,YES
+286,286,409,5525066,F,Weekday,26,6,Employed,Braces,30000-40000,Yes,NO
+287,287,410,5616294,F,Weekday,56,7,Employed,Dental Implant,30000-40000,Yes,NO
+288,288,411,5377051,M,Weekday,63,4,Unemployed,Restorations,1500-2500,No,YES
+289,289,412,5508753,F,Weekday,54,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+290,290,413,5641795,M,Weekday,44,5,Employed,Root Canal,6000-10000,Yes,YES
+291,291,414,5637469,F,Weekday,27,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+292,292,415,5603886,F,Weekday,13,11,Unemployed,Scaling,1000-3000,No,NO
+293,293,416,5638631,M,Weekday,36,3,Employed,Extractions,1000-2000,Yes,YES
+294,294,417,5623834,F,Weekday,66,2,Unemployed,Dental Implant,30000-40000,No,YES
+295,295,418,5385878,F,Weekday,72,9,Unemployed,Scaling,1000-3000,No,NO
+296,296,419,5235449,F,Weekday,57,1,Employed,Dental Implant,30000-40000,Yes,YES
+297,297,420,5642549,F,Weekday,4,9,Unemployed,Pulpectomy,4000-6000,No,NO
+298,298,421,5629276,F,Weekday,44,1,Employed,Root Canal,6000-10000,Yes,YES
+299,299,422,5604424,M,Weekday,31,7,Employed,Braces,30000-40000,Yes,NO
+300,300,423,5637947,F,Weekday,59,2,Employed,Flap Surgery,25000-35000,Yes,YES
+301,301,424,5621865,M,Weekday,24,5,Employed,Braces,30000-40000,Yes,NO
+302,302,425,5617014,F,Weekday,51,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+303,303,426,5552934,M,Weekday,28,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+304,304,427,5520853,F,Weekday,22,5,Unemployed,Root Canal,6000-10000,No,NO
+305,305,428,5638828,M,Weekday,56,7,Employed,Dental Implant,30000-40000,Yes,NO
+306,306,429,5601594,F,Weekday,24,9,Employed,Braces,30000-40000,Yes,NO
+307,307,430,5542224,F,Weekday,23,4,Unemployed,Root Canal,6000-10000,No,YES
+308,308,431,5638849,F,Weekday,3,11,Unemployed,Pulpectomy,4000-6000,Yes,NO
+309,309,432,5642183,M,Weekday,67,9,Unemployed,Scaling,1000-3000,No,NO
+310,310,433,5499102,F,Weekday,45,4,Employed,Root Canal,6000-10000,Yes,YES
+311,311,434,5536059,M,Weekday,17,12,Unemployed,Extractions,1000-2000,No,NO
+312,312,435,5573497,F,Weekday,30,2,Employed,Dental Implant,30000-40000,Yes,YES
+313,313,436,5634184,F,Weekday,34,4,Employed,Restorations,1500-2500,Yes,YES
+314,314,437,5541569,F,Weekday,24,5,Employed,Braces,30000-40000,Yes,NO
+315,315,438,5552327,M,Weekday,42,5,Employed,Scaling,1000-3000,Yes,NO
+316,316,439,5565309,F,Weekday,32,5,Employed,Restorations,1500-2500,Yes,NO
+317,317,440,5607910,M,Weekday,45,3,Employed,Root Canal,6000-10000,Yes,YES
+318,318,441,5607905,F,Weekday,30,6,Employed,Dental Implant,30000-40000,Yes,NO
+319,319,442,5641423,F,Weekday,38,4,Employed,Extractions,1000-2000,Yes,YES
+320,320,443,5594085,M,Weekday,14,7,Unemployed,Scaling,1000-3000,No,NO
+321,321,444,5526548,M,Weekday,28,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+322,322,445,5634207,F,Weekday,17,2,Unemployed,Extractions,1000-2000,No,YES
+323,323,446,5639083,M,Weekday,23,4,Unemployed,Root Canal,6000-10000,No,YES
+324,324,447,5618145,M,Weekday,23,5,Unemployed,Root Canal,6000-10000,No,NO
+325,325,448,5626029,M,Weekday,11,11,Unemployed,Scaling,1000-3000,No,NO
+326,326,449,5532452,M,Weekday,16,5,Unemployed,Extractions,1000-2000,No,NO
+327,327,450,5629184,M,Weekday,55,6,Employed,Dental Implant,30000-40000,Yes,NO
+328,328,451,5526187,M,Weekday,14,12,Unemployed,Scaling,1000-3000,No,NO
+329,329,452,5629190,F,Weekday,53,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+330,330,453,5615020,F,Weekday,34,3,Employed,Restorations,1500-2500,Yes,YES
+331,331,454,5620206,M,Weekday,73,8,Unemployed,Root Canal,6000-10000,No,NO
+332,332,455,5641925,M,Weekday,36,6,Employed,Extractions,1000-2000,Yes,NO
+333,333,456,5521733,M,Weekday,31,8,Employed,Braces,30000-40000,Yes,NO
+334,334,457,5631090,F,Weekday,24,2,Employed,Braces,30000-40000,Yes,YES
+335,335,458,5501658,F,Weekday,17,8,Unemployed,Extractions,1000-2000,No,NO
+336,336,459,5594748,F,Weekday,18,5,Unemployed,Restorations,1500-2500,No,NO
+337,337,460,5638570,M,Weekday,23,11,Unemployed,Root Canal,6000-10000,No,NO
+338,338,461,5642668,F,Weekday,26,3,Employed,Braces,30000-40000,Yes,YES
+339,339,462,5506086,F,Weekday,30,12,Employed,Braces,30000-40000,Yes,NO
+340,340,463,5639054,F,Weekday,34,1,Employed,Restorations,1500-2500,Yes,YES
+341,341,464,5633961,M,Weekday,21,9,Unemployed,Root Canal,6000-10000,No,NO
+342,342,465,5618957,M,Weekday,24,8,Employed,Braces,30000-40000,Yes,NO
+343,343,466,5639470,F,Weekday,56,11,Employed,Dental Implant,30000-40000,Yes,NO
+344,344,467,5618140,F,Weekday,32,11,Employed,Restorations,1500-2500,Yes,NO
+345,345,468,5631089,F,Weekday,23,4,Unemployed,Root Canal,6000-10000,No,YES
+346,346,469,5642477,F,Weekday,27,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+347,347,470,5637358,M,Weekday,10,5,Unemployed,Extractions,1000-2000,No,NO
+348,348,471,5641893,F,Weekday,23,9,Unemployed,Root Canal,6000-10000,No,NO
+349,349,472,5605870,F,Weekday,21,8,Unemployed,Root Canal,6000-10000,No,NO
+350,350,473,5640823,M,Weekday,45,2,Employed,Root Canal,6000-10000,Yes,YES
+351,351,474,5630446,F,Weekday,26,2,Employed,Braces,30000-40000,Yes,YES
+352,352,475,5641453,F,Weekday,45,4,Employed,Root Canal,6000-10000,Yes,YES
+353,353,476,5618129,M,Weekday,23,9,Unemployed,Root Canal,6000-10000,No,NO
+354,354,477,5607907,M,Weekday,12,2,Unemployed,Scaling,1000-3000,No,YES
+355,355,478,5555461,F,Weekday,27,7,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+356,356,479,5631108,F,Weekday,29,9,Employed,Dental Implant,30000-40000,Yes,NO
+357,357,480,5483275,M,Weekday,15,3,Unemployed,Extractions,1000-2000,No,YES
+358,358,481,5543959,F,Weekday,36,11,Employed,Extractions,1000-2000,Yes,NO
+359,359,482,5638575,F,Weekday,28,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+360,360,483,5575635,F,Weekday,24,8,Employed,Braces,30000-40000,Yes,NO
+361,361,484,5589127,M,Weekday,16,8,Unemployed,Extractions,1000-2000,No,NO
+362,362,485,5635723,M,Weekday,56,1,Employed,Dental Implant,30000-40000,Yes,YES
+363,363,486,5639223,F,Weekday,21,3,Unemployed,Root Canal,6000-10000,No,YES
+364,364,487,5637908,F,Weekday,17,11,Unemployed,Extractions,1000-2000,No,NO
+365,365,488,5496971,F,Weekday,42,4,Employed,Scaling,1000-3000,Yes,YES
+366,366,489,5634868,F,Weekday,5,6,Unemployed,Pulpectomy,4000-6000,No,NO
+367,367,490,5576913,M,Weekday,56,5,Employed,Dental Implant,30000-40000,Yes,NO
+368,368,491,5521773,F,Weekday,40,4,Employed,Scaling,1000-3000,Yes,YES
+369,369,492,5539587,F,Weekday,44,11,Employed,Root Canal,6000-10000,Yes,NO
+370,370,493,5631659,M,Weekday,36,1,Employed,Extractions,1000-2000,Yes,YES
+371,371,494,5618125,M,Weekday,30,5,Employed,Dental Implant,30000-40000,Yes,NO
+372,372,495,5628777,M,Weekday,9,6,Unemployed,Extractions,1000-2000,No,NO
+373,373,496,5640933,F,Weekend,24,12,Employed,Braces,30000-40000,Yes,YES
+374,374,497,5618126,F,Weekend,32,4,Employed,Restorations,1500-2500,Yes,YES
+375,375,498,5586769,F,Weekday,17,8,Unemployed,Extractions,1000-2000,No,NO
+376,376,499,5499558,F,Weekday,34,5,Employed,Restorations,1500-2500,Yes,NO
+377,377,500,5638417,F,Weekend,25,5,Employed,Braces,30000-40000,Yes,NO
+378,378,501,5562091,M,Weekend,32,1,Employed,Restorations,1500-2500,Yes,YES
+379,379,502,5638375,F,Weekday,23,4,Unemployed,Root Canal,6000-10000,No,YES
+380,380,503,5410880,M,Weekend,45,10,Employed,Root Canal,6000-10000,Yes,YES
+381,381,504,5637494,F,Weekend,36,1,Employed,Extractions,1000-2000,Yes,YES
+382,382,505,5637981,F,Weekday,64,6,Unemployed,Restorations,1500-2500,No,NO
+383,383,506,5638014,F,Weekend,35,9,Employed,Extractions,1000-2000,Yes,NO
+384,384,507,5511955,F,Weekend,27,3,Employed,Braces,30000-40000,Yes,YES
+385,385,508,5559190,F,Weekday,8,8,Unemployed,Extractions,1000-2000,No,NO
+386,386,509,5587998,F,Weekday,16,2,Unemployed,Extractions,1000-2000,No,YES
+387,387,510,5561763,F,Weekday,60,2,Employed,Flap Surgery,25000-35000,Yes,YES
+388,388,511,5642494,M,Weekend,38,6,Employed,Extractions,1000-2000,Yes,NO
+389,389,512,5638460,M,Weekend,54,6,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+390,390,513,5578980,F,Weekend,40,5,Employed,Scaling,1000-3000,Yes,NO
+391,391,514,5640330,M,Weekend,29,6,Employed,Dental Implant,30000-40000,Yes,NO
+392,392,515,5537870,F,Weekday,21,7,Unemployed,Root Canal,6000-10000,No,NO
+393,393,516,5640265,M,Weekday,6,4,Unemployed,Restorations,1500-2500,No,YES
+394,394,517,5640652,M,Weekend,54,7,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+395,395,518,5531300,M,Weekend,44,6,Employed,Root Canal,6000-10000,Yes,YES
+396,396,519,5515907,F,Weekday,10,1,Unemployed,Extractions,1000-2000,No,YES
+397,397,520,5517066,M,Weekend,37,6,Employed,Extractions,1000-2000,Yes,NO
+398,398,521,5638235,M,Weekday,61,3,Unemployed,Restorations,1500-2500,No,YES
+399,399,522,5488362,M,Weekday,11,3,Unemployed,Scaling,1000-3000,No,YES
+400,400,523,5609088,M,Weekday,6,6,Unemployed,Restorations,1500-2500,No,NO
+401,401,524,5599531,M,Weekday,3,9,Unemployed,Pulpectomy,4000-6000,No,NO
+402,402,525,5640119,F,Weekday,6,1,Unemployed,Restorations,1500-2500,No,YES
+403,403,526,5631413,F,Weekday,17,6,Unemployed,Extractions,1000-2000,No,NO
+404,404,527,5618128,F,Weekday,17,4,Unemployed,Extractions,1000-2000,No,YES
+405,405,528,5638258,M,Weekend,27,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+406,406,529,5514210,F,Weekday,3,11,Unemployed,Pulpectomy,4000-6000,No,NO
+407,407,530,5525498,M,Weekend,58,4,Employed,Flap Surgery,25000-35000,Yes,YES
+408,408,531,5531620,F,Weekend,36,12,Employed,Extractions,1000-2000,Yes,NO
+409,409,532,5631254,M,Weekend,58,3,Employed,Flap Surgery,25000-35000,Yes,YES
+410,410,533,5522585,F,Weekend,64,3,Unemployed,Restorations,1500-2500,No,YES
+411,411,534,5638464,F,Weekend,18,2,Unemployed,Braces,30000-40000,No,YES
+412,412,535,5489424,M,Weekend,27,5,Employed,Braces,30000-40000,Yes,NO
+413,413,536,5637547,M,Weekend,42,5,Employed,Scaling,1000-3000,Yes,NO
+414,414,537,5638406,F,Weekend,59,10,Employed,Flap Surgery,25000-35000,Yes,YES
+415,415,538,5633350,F,Weekend,56,11,Employed,Dental Implant,30000-40000,Yes,YES
+416,416,539,5604243,M,Weekday,11,7,Unemployed,Scaling,1000-3000,No,NO
+417,417,540,5639652,F,Weekend,52,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+418,418,541,5559138,F,Weekend,27,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+419,419,542,5601626,M,Weekend,32,9,Employed,Restorations,1500-2500,Yes,YES
+420,420,543,5640313,F,Weekend,35,2,Employed,Extractions,1000-2000,Yes,YES
+421,421,544,5640471,F,Weekday,7,2,Unemployed,Restorations,1500-2500,No,YES
+422,422,545,5538181,F,Weekday,18,3,Unemployed,Restorations,1500-2500,No,YES
+423,423,546,5613524,M,Weekday,57,1,Employed,Dental Implant,30000-40000,Yes,YES
+424,424,547,5613287,F,Weekday,62,1,Unemployed,Restorations,1500-2500,No,YES
+425,425,548,5630432,F,Weekday,17,1,Unemployed,Extractions,1000-2000,No,YES
+426,426,549,5638651,M,Weekday,8,2,Unemployed,Extractions,1000-2000,No,YES
+427,427,550,5565214,F,Weekend,60,2,Employed,Flap Surgery,25000-35000,Yes,YES
+428,428,551,5595356,F,Weekend,58,10,Employed,Flap Surgery,25000-35000,Yes,YES
+429,429,552,5561682,F,Weekend,22,1,Unemployed,Root Canal,6000-10000,No,YES
+430,430,553,5494266,M,Weekend,40,10,Employed,Scaling,1000-3000,Yes,YES
+431,431,554,5637831,F,Weekend,30,11,Employed,Dental Implant,30000-40000,Yes,YES
+432,432,555,5482629,M,Weekend,27,10,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+433,433,556,5518557,F,Weekend,77,11,Unemployed,Fixed Prosthetic Denture,5000-15000,No,NO
+434,434,557,5620065,F,Weekend,67,12,Unemployed,Dental Implant,30000-40000,No,NO
+435,435,558,5640987,F,Weekend,9,7,Unemployed,Extractions,1000-2000,No,NO
+436,436,559,5589488,F,Weekend,65,2,Unemployed,Dental Implant,30000-40000,No,YES
+437,437,560,5602909,F,Weekend,52,6,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+438,438,561,5641171,F,Weekend,28,1,Employed,Braces,30000-40000,Yes,YES
+439,439,562,5639721,F,Weekend,57,2,Employed,Dental Implant,30000-40000,Yes,YES
+440,440,563,5607919,F,Weekend,30,1,Employed,Dental Implant,30000-40000,Yes,YES
+441,441,564,5641470,F,Weekend,28,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+442,442,565,5637827,F,Weekday,60,9,Employed,Flap Surgery,25000-35000,Yes,NO
+443,443,566,5640190,F,Weekend,26,8,Employed,Braces,30000-40000,Yes,YES
+444,444,567,5595910,M,Weekday,73,9,Unemployed,Root Canal,6000-10000,No,NO
+445,445,568,5629130,M,Weekend,34,8,Employed,Restorations,1500-2500,Yes,YES
+446,446,569,5639385,F,Weekday,7,5,Unemployed,Restorations,1500-2500,No,NO
+447,447,570,5641884,M,Weekday,20,4,Unemployed,Restorations,1500-2500,No,YES
+448,448,571,5494050,M,Weekday,61,1,Unemployed,Restorations,1500-2500,No,YES
+449,449,572,5642236,F,Weekend,24,11,Employed,Braces,30000-40000,Yes,YES
+450,450,573,5631116,F,Weekend,31,10,Employed,Restorations,1500-2500,Yes,YES
+451,451,574,5642419,F,Weekday,61,4,Unemployed,Restorations,1500-2500,No,YES
+452,452,575,5637356,F,Weekend,54,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+453,453,576,5637980,F,Weekday,34,11,Employed,Restorations,1500-2500,Yes,NO
+454,454,577,5614681,F,Weekday,59,9,Employed,Flap Surgery,25000-35000,Yes,NO
+455,455,578,5563071,M,Weekday,6,4,Unemployed,Restorations,1500-2500,No,YES
+456,456,579,5641418,F,Weekday,56,4,Employed,Dental Implant,30000-40000,Yes,YES
+457,457,580,5628122,F,Weekend,31,9,Employed,Restorations,1500-2500,Yes,YES
+458,458,581,5604270,M,Weekend,27,6,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+459,459,582,5641436,F,Weekday,19,11,Unemployed,Restorations,1500-2500,No,NO
+460,460,583,5419869,F,Weekday,34,5,Employed,Restorations,1500-2500,Yes,NO
+461,461,584,5590755,F,Weekend,36,7,Employed,Extractions,1000-2000,Yes,NO
+462,462,585,5626290,F,Weekend,25,8,Employed,Braces,30000-40000,Yes,YES
+463,463,586,5499243,F,Weekday,80,6,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+464,464,587,5568852,F,Weekday,4,7,Unemployed,Pulpectomy,4000-6000,No,NO
+465,465,588,5634423,M,Weekend,54,10,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+466,466,589,5638403,F,Weekday,23,5,Unemployed,Root Canal,6000-10000,No,NO
+467,467,590,5520060,M,Weekend,42,1,Employed,Scaling,1000-3000,Yes,YES
+468,468,591,5518661,F,Weekend,30,4,Employed,Dental Implant,30000-40000,Yes,YES
+469,469,592,5502125,F,Weekend,59,6,Employed,Flap Surgery,25000-35000,Yes,NO
+470,470,593,5634151,F,Weekday,8,7,Unemployed,Extractions,1000-2000,No,NO
+471,471,594,5637742,F,Weekday,13,1,Unemployed,Scaling,1000-3000,No,YES
+472,472,595,5588126,M,Weekday,45,4,Employed,Root Canal,6000-10000,Yes,YES
+473,473,596,5317449,M,Weekday,34,1,Employed,Restorations,1500-2500,Yes,YES
+474,474,597,5636991,F,Weekend,45,11,Employed,Root Canal,6000-10000,Yes,YES
+475,475,598,5369711,F,Weekend,42,5,Employed,Scaling,1000-3000,Yes,NO
+476,476,599,5602917,M,Weekend,31,11,Employed,Braces,30000-40000,Yes,YES
+477,477,600,5236116,F,Weekend,52,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+478,478,601,5641281,F,Weekday,20,9,Unemployed,Restorations,1500-2500,No,NO
+479,479,602,5638352,M,Weekend,5,12,Unemployed,Pulpectomy,4000-6000,No,YES
+480,480,603,5640461,M,Weekend,44,6,Employed,Root Canal,6000-10000,Yes,YES
+481,481,604,5524539,F,Weekend,26,6,Employed,Braces,30000-40000,Yes,NO
+482,482,605,5571842,F,Weekend,29,1,Employed,Dental Implant,30000-40000,Yes,YES
+483,483,606,5525670,F,Weekend,59,2,Employed,Flap Surgery,25000-35000,Yes,YES
+484,484,607,5483554,F,Weekend,23,1,Unemployed,Root Canal,6000-10000,No,YES
+485,485,608,5642319,M,Weekend,32,12,Employed,Restorations,1500-2500,Yes,YES
+486,486,609,5504588,M,Weekday,12,4,Unemployed,Scaling,1000-3000,No,YES
+487,487,610,5637522,M,Weekday,62,4,Unemployed,Restorations,1500-2500,No,YES
+488,488,611,5481913,F,Weekend,28,7,Employed,Braces,30000-40000,Yes,NO
+489,489,612,5638059,M,Weekend,28,7,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+490,490,613,5630279,F,Weekend,46,2,Employed,Root Canal,6000-10000,Yes,YES
+491,491,614,5628068,M,Weekday,8,12,Unemployed,Extractions,1000-2000,No,NO
+492,492,615,5408325,M,Weekend,30,11,Employed,Braces,30000-40000,Yes,YES
+493,493,616,5620163,F,Weekend,58,6,Employed,Flap Surgery,25000-35000,Yes,NO
+494,494,617,5531933,F,Weekend,27,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+495,495,618,5441632,F,Weekday,15,6,Unemployed,Extractions,1000-2000,No,NO
+496,496,619,5597685,M,Weekday,58,12,Employed,Flap Surgery,25000-35000,Yes,NO
+497,497,620,5561194,M,Weekday,28,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+498,498,621,5510395,M,Weekday,60,9,Employed,Flap Surgery,25000-35000,Yes,NO
+499,499,622,5546336,M,Weekday,5,8,Unemployed,Pulpectomy,4000-6000,No,NO
+500,500,623,5638671,F,Weekday,79,11,Unemployed,Fixed Prosthetic Denture,5000-15000,No,NO
+501,501,624,5631970,F,Weekday,3,4,Unemployed,Pulpectomy,4000-6000,No,YES
+502,502,625,5637963,M,Weekend,37,2,Employed,Extractions,1000-2000,Yes,YES
+503,503,626,5637823,F,Weekend,29,9,Employed,Braces,30000-40000,Yes,YES
+504,504,627,5524870,F,Weekend,39,8,Employed,Scaling,1000-3000,Yes,YES
+505,505,628,5631863,F,Weekend,56,4,Employed,Dental Implant,30000-40000,Yes,YES
+506,506,629,5491534,M,Weekday,8,6,Unemployed,Scaling,1000-3000,No,NO
+507,507,630,5640108,F,Weekday,62,5,Unemployed,Flap Surgery,25000-35000,No,NO
+508,508,631,5640383,F,Weekday,68,7,Unemployed,Dental Implant,30000-40000,No,NO
+509,509,632,5642903,M,Weekday,19,2,Unemployed,Restorations,1500-2500,No,YES
+510,510,633,5518724,F,Weekday,67,11,Unemployed,Dental Implant,30000-40000,No,NO
+511,511,634,5640212,F,Weekend,30,8,Employed,Dental Implant,30000-40000,Yes,YES
+512,512,635,5628855,M,Weekday,61,2,Unemployed,Restorations,1500-2500,No,YES
+513,513,636,5551680,M,Weekday,68,1,Unemployed,Flap Surgery,1000-3000,No,YES
+514,514,637,5594249,F,Weekend,31,12,Employed,Braces,30000-40000,Yes,YES
+515,515,638,5641705,M,Weekend,37,3,Employed,Extractions,1000-2000,Yes,YES
+516,516,639,5589091,F,Weekend,25,11,Employed,Braces,30000-40000,Yes,YES
+517,517,640,5600907,F,Weekday,5,8,Unemployed,Pulpectomy,4000-6000,No,NO
+518,518,641,5641057,F,Weekday,78,11,Unemployed,Fixed Prosthetic Denture,5000-15000,No,NO
+519,519,642,5639237,F,Weekend,53,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+520,520,643,5637941,F,Weekend,34,9,Employed,Restorations,1500-2500,Yes,YES
+521,521,644,5571906,F,Weekend,42,4,Employed,Scaling,1000-3000,Yes,YES
+522,522,645,5619794,M,Weekday,9,3,Unemployed,Extractions,1000-2000,No,YES
+523,523,646,5582366,F,Weekend,35,3,Employed,Extractions,1000-2000,Yes,YES
+524,524,647,5531537,F,Weekday,3,9,Unemployed,Pulpectomy,4000-6000,No,NO
+525,525,648,5536723,F,Weekday,19,10,Unemployed,Restorations,1500-2500,No,NO
+526,526,649,5629303,F,Weekday,20,3,Unemployed,Braces,30000-40000,No,YES
+527,527,650,5506021,M,Weekend,56,8,Employed,Dental Implant,30000-40000,Yes,YES
+528,528,651,5640366,F,Weekday,59,4,Employed,Flap Surgery,25000-35000,Yes,YES
+529,529,652,5637431,F,Weekday,68,8,Unemployed,Dental Implant,30000-40000,No,NO
+530,530,653,5639881,F,Weekend,29,5,Employed,Dental Implant,30000-40000,Yes,NO
+531,531,654,5640032,M,Weekday,19,2,Unemployed,Braces,30000-40000,No,YES
+532,532,655,5639556,M,Weekend,31,3,Employed,Restorations,1500-2500,Yes,YES
+533,533,656,5626699,M,Weekday,7,5,Unemployed,Restorations,1500-2500,No,NO
+534,534,657,5457705,F,Weekday,64,12,Unemployed,Restorations,1500-2500,No,NO
+535,535,658,5638399,F,Weekend,28,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+536,536,659,5501785,F,Weekend,39,11,Employed,Scaling,1000-3000,Yes,YES
+537,537,660,5603126,F,Weekend,31,3,Employed,Restorations,1500-2500,Yes,YES
+538,538,661,5520464,F,Weekend,4,3,Unemployed,Pulpectomy,4000-6000,No,YES
+539,539,662,5478890,F,Weekend,24,5,Employed,Braces,30000-40000,Yes,NO
+540,540,663,5618503,F,Weekend,28,5,Employed,Braces,30000-40000,Yes,NO
+541,541,664,5640291,F,Weekend,42,5,Employed,Scaling,1000-3000,Yes,NO
+542,542,665,5595567,F,Weekend,37,2,Employed,Extractions,1000-2000,Yes,YES
+543,543,666,5590876,F,Weekend,63,8,Unemployed,Restorations,1500-2500,No,NO
+544,544,667,5640011,F,Weekend,57,7,Employed,Dental Implant,30000-40000,Yes,NO
+545,545,668,5639423,F,Weekend,43,8,Employed,Root Canal,6000-10000,Yes,YES
+546,546,669,5619059,F,Weekend,71,5,Unemployed,Flap Surgery,25000-35000,No,NO
+547,547,670,5576499,F,Weekend,54,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+548,548,671,5641070,M,Weekend,8,1,Unemployed,Extractions,1000-2000,No,YES
+549,549,672,5637642,M,Weekend,56,2,Employed,Dental Implant,30000-40000,Yes,YES
+550,550,673,5623910,M,Weekend,66,4,Unemployed,Dental Implant,30000-40000,No,YES
+551,551,674,5614108,F,Weekend,27,8,Employed,Braces,30000-40000,Yes,YES
+552,552,675,5473142,F,Weekend,10,2,Unemployed,Extractions,1000-2000,No,YES
+553,553,676,5560563,M,Weekend,6,10,Unemployed,Restorations,1500-2500,No,NO
+554,554,677,5490867,F,Weekend,37,9,Employed,Extractions,1000-2000,Yes,NO
+555,555,678,5546326,F,Weekend,31,11,Employed,Restorations,1500-2500,Yes,YES
+556,556,679,5641228,F,Weekday,9,4,Unemployed,Extractions,1000-2000,No,YES
+557,557,680,5591190,M,Weekday,71,1,Unemployed,Scaling,1000-3000,No,YES
+558,558,681,5605461,F,Weekday,3,4,Unemployed,Pulpectomy,4000-6000,No,YES
+559,559,682,5633576,M,Weekday,62,9,Unemployed,Restorations,1500-2500,No,NO
+560,560,683,5553847,F,Weekday,12,2,Unemployed,Scaling,1000-3000,No,YES
+561,561,684,5464289,M,Weekday,3,12,Unemployed,Pulpectomy,4000-6000,No,NO
+562,562,685,5629128,F,Weekend,31,5,Employed,Restorations,1500-2500,Yes,NO
+563,563,686,5522473,F,Weekend,28,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+564,564,687,5639250,F,Weekend,32,6,Employed,Restorations,1500-2500,Yes,NO
+565,565,688,5639773,F,Weekend,55,4,Employed,Dental Implant,30000-40000,Yes,YES
+566,566,689,5518442,F,Weekday,17,7,Unemployed,Extractions,1000-2000,No,NO
+567,567,690,5639697,F,Weekend,26,6,Employed,Braces,30000-40000,Yes,NO
+568,568,691,5638768,F,Weekday,19,3,Unemployed,Root Canal,6000-10000,No,YES
+569,569,692,5616921,F,Weekend,27,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+570,570,693,5549027,F,Weekday,61,10,Unemployed,Restorations,1500-2500,No,NO
+571,571,694,5615023,F,Weekend,39,2,Employed,Scaling,1000-3000,Yes,YES
+572,572,695,5637993,M,Weekend,32,7,Employed,Braces,30000-40000,Yes,NO
+573,573,696,5634230,F,Weekday,56,3,Employed,Dental Implant,30000-40000,Yes,YES
+574,574,697,5637565,F,Weekend,17,11,Unemployed,Extractions,1000-2000,No,NO
+575,575,698,5514089,F,Weekend,54,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+576,576,699,5539130,M,Weekend,61,12,Unemployed,Restorations,1500-2500,No,NO
+577,577,700,5545018,M,Weekend,52,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+578,578,701,5639831,F,Weekend,29,7,Employed,Dental Implant,30000-40000,Yes,NO
+579,579,702,5609931,M,Weekend,8,8,Unemployed,Extractions,1000-2000,No,NO
+580,580,703,5639264,F,Weekend,45,3,Employed,Root Canal,6000-10000,Yes,YES
+581,581,704,5475541,F,Weekend,17,9,Unemployed,Extractions,1000-2000,No,NO
+582,582,705,5332468,M,Weekend,15,5,Unemployed,Extractions,1000-2000,No,NO
+583,583,706,5639771,F,Weekend,51,6,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+584,584,707,5631483,F,Weekend,11,11,Unemployed,Scaling,1000-3000,No,NO
+585,585,708,5626036,M,Weekend,55,5,Employed,Dental Implant,30000-40000,Yes,NO
+586,586,709,5634338,M,Weekend,7,5,Unemployed,Restorations,1500-2500,No,NO
+587,587,710,5516605,F,Weekend,65,9,Unemployed,Dental Implant,30000-40000,No,NO
+588,588,711,5628661,M,Weekend,21,1,Unemployed,Root Canal,6000-10000,No,YES
+589,589,712,5621635,F,Weekend,32,1,Employed,Restorations,1500-2500,Yes,YES
+590,590,713,5642137,F,Weekend,78,8,Unemployed,Fixed Prosthetic Denture,5000-15000,No,NO
+591,591,714,5641354,M,Weekend,33,2,Employed,Restorations,1500-2500,Yes,YES
+592,592,715,5595362,F,Weekday,64,9,Unemployed,Restorations,1500-2500,No,NO
+593,593,716,5642644,F,Weekend,24,1,Employed,Braces,30000-40000,Yes,YES
+594,594,717,5638410,M,Weekday,20,3,Unemployed,Restorations,1500-2500,No,YES
+595,595,718,5486593,M,Weekend,32,7,Employed,Braces,30000-40000,Yes,NO
+596,596,719,5641832,F,Weekend,27,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+597,597,720,5638841,F,Weekend,24,7,Employed,Braces,30000-40000,Yes,NO
+598,598,721,5631652,F,Weekday,20,12,Unemployed,Restorations,1500-2500,No,NO
+599,599,722,5638829,M,Weekday,65,6,Unemployed,Dental Implant,30000-40000,No,NO
+600,600,723,5600151,F,Weekend,34,2,Employed,Restorations,1500-2500,Yes,YES
+601,601,724,5634178,M,Weekend,42,4,Employed,Scaling,1000-3000,Yes,YES
+602,602,725,5561514,F,Weekday,75,10,Unemployed,Root Canal,6000-10000,No,NO
+603,603,726,5527610,M,Weekday,17,11,Unemployed,Extractions,1000-2000,No,NO
+604,604,727,5639885,F,Weekend,51,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+605,605,728,5633460,M,Weekend,52,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+606,606,729,5534388,F,Weekend,51,12,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+607,607,730,5523027,F,Weekday,67,1,Unemployed,Dental Implant,30000-40000,No,YES
+608,608,731,5640173,F,Weekday,71,10,Unemployed,Scaling,1000-3000,No,NO
+609,609,732,5505954,F,Weekday,6,12,Unemployed,Restorations,1500-2500,No,NO
+610,610,733,5640055,F,Weekend,29,12,Employed,Braces,30000-40000,Yes,YES
+611,611,734,5525358,F,Weekday,78,7,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+612,612,735,5641592,M,Weekday,62,2,Unemployed,Restorations,1500-2500,No,YES
+613,613,736,5590627,F,Weekend,31,10,Employed,Restorations,1500-2500,Yes,YES
+614,614,737,5601991,F,Weekend,26,12,Employed,Braces,30000-40000,Yes,YES
+615,615,738,5641917,F,Weekday,18,3,Unemployed,Restorations,1500-2500,No,YES
+616,616,739,5621425,F,Weekday,61,10,Unemployed,Restorations,1500-2500,No,NO
+617,617,740,5490851,F,Weekday,12,8,Unemployed,Scaling,1000-3000,No,NO
+618,618,741,5634822,F,Weekday,57,10,Employed,Dental Implant,30000-40000,Yes,NO
+619,619,742,5604792,F,Weekday,69,10,Unemployed,Scaling,1000-3000,No,NO
+620,620,743,5642766,M,Weekend,54,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+621,621,744,5631104,F,Weekend,45,8,Employed,Root Canal,6000-10000,Yes,YES
+622,622,745,5619639,F,Weekday,4,12,Unemployed,Pulpectomy,4000-6000,No,NO
+623,623,746,5502329,F,Weekend,58,5,Employed,Flap Surgery,25000-35000,Yes,NO
+624,624,747,5639855,F,Weekend,27,9,Employed,Braces,30000-40000,Yes,YES
+625,625,748,5538031,F,Weekday,20,9,Unemployed,Restorations,1500-2500,No,NO
+626,626,749,5565532,F,Weekend,25,2,Employed,Braces,30000-40000,Yes,YES
+627,627,750,5618149,F,Weekday,21,10,Unemployed,Root Canal,6000-10000,No,NO
+628,628,751,5634077,M,Weekend,43,1,Employed,Root Canal,6000-10000,Yes,YES
+629,629,752,5540024,M,Weekday,58,11,Employed,Restorations,1500-2500,Yes,NO
+630,630,753,5638689,F,Weekend,75,10,Unemployed,Root Canal,6000-10000,No,NO
+631,631,754,5544176,M,Weekend,23,11,Unemployed,Root Canal,6000-10000,No,NO
+632,632,755,5560735,F,Weekend,62,11,Unemployed,Restorations,1500-2500,No,NO
+633,633,756,5539219,F,Weekend,46,2,Employed,Root Canal,6000-10000,Yes,YES
+634,634,757,5532908,M,Weekend,55,1,Employed,Dental Implant,30000-40000,Yes,YES
+635,635,758,5634183,M,Weekend,13,1,Unemployed,Scaling,1000-3000,No,YES
+636,636,759,5640531,F,Weekday,64,12,Unemployed,Restorations,1500-2500,No,NO
+637,637,760,5628437,F,Weekend,55,4,Employed,Dental Implant,30000-40000,Yes,YES
+638,638,761,5536983,F,Weekend,40,6,Employed,Scaling,1000-3000,Yes,NO
+639,639,762,5638449,F,Weekend,41,5,Employed,Scaling,1000-3000,Yes,NO
+640,640,763,5604145,F,Weekday,58,4,Employed,Flap Surgery,25000-35000,Yes,YES
+641,641,764,5587063,M,Weekend,52,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+642,642,765,5508644,M,Weekday,4,10,Unemployed,Pulpectomy,4000-6000,No,NO
+643,643,766,5638447,F,Weekday,20,9,Unemployed,Restorations,1500-2500,No,NO
+644,644,767,5611549,F,Weekday,68,10,Unemployed,Dental Implant,30000-40000,No,NO
+645,645,768,5631073,F,Weekend,27,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+646,646,769,5639050,M,Weekend,37,4,Employed,Extractions,1000-2000,Yes,YES
+647,647,770,5588663,F,Weekend,44,11,Employed,Root Canal,6000-10000,Yes,YES
+648,648,771,5523433,M,Weekend,36,6,Employed,Extractions,1000-2000,Yes,NO
+649,649,772,5641448,F,Weekend,31,10,Employed,Restorations,1500-2500,Yes,YES
+650,650,773,5583657,F,Weekend,32,8,Employed,Restorations,1500-2500,Yes,YES
+651,651,774,5560703,F,Weekend,42,7,Employed,Scaling,1000-3000,Yes,NO
+652,652,775,5625973,F,Weekend,54,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+653,653,776,5623692,F,Weekend,54,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+654,654,777,5564010,F,Weekday,6,3,Unemployed,Restorations,1500-2500,No,YES
+655,655,778,5602082,F,Weekday,3,1,Unemployed,Pulpectomy,4000-6000,No,YES
+656,656,779,5638753,F,Weekend,32,4,Employed,Restorations,1500-2500,Yes,YES
+657,657,780,5579313,F,Weekend,55,2,Employed,Dental Implant,30000-40000,Yes,YES
+658,658,781,5598459,M,Weekend,46,12,Employed,Root Canal,6000-10000,Yes,YES
+659,659,782,5638171,F,Weekend,42,1,Employed,Scaling,1000-3000,Yes,YES
+660,660,783,5639876,F,Weekend,45,2,Employed,Root Canal,6000-10000,Yes,YES
+661,661,784,5595046,M,Weekend,44,12,Employed,Root Canal,6000-10000,Yes,YES
+662,662,785,5640175,F,Weekday,21,10,Unemployed,Root Canal,6000-10000,No,NO
+663,663,786,5639399,F,Weekend,52,12,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+664,664,787,5631432,F,Weekend,22,8,Unemployed,Braces,30000-40000,No,NO
+665,665,788,5629186,F,Weekend,17,2,Unemployed,Extractions,1000-2000,No,YES
+666,666,789,5593357,M,Weekend,42,3,Employed,Scaling,1000-3000,Yes,YES
+667,667,790,5618131,F,Weekend,36,1,Employed,Extractions,1000-2000,Yes,YES
+668,668,791,5641063,F,Weekend,7,4,Unemployed,Restorations,1500-2500,No,YES
+669,669,792,5586828,M,Weekend,7,11,Unemployed,Restorations,1500-2500,No,NO
+670,670,793,5493345,F,Weekend,21,6,Unemployed,Root Canal,6000-10000,No,NO
+671,671,794,5499309,M,Weekend,74,11,Unemployed,Root Canal,6000-10000,No,NO
+672,672,795,5638939,F,Weekend,24,1,Employed,Braces,30000-40000,Yes,YES
+673,673,796,5624402,M,Weekday,20,5,Unemployed,Restorations,1500-2500,No,NO
+674,674,797,5630639,F,Weekend,25,7,Employed,Braces,30000-40000,Yes,NO
+675,675,798,5495897,F,Weekend,30,6,Employed,Dental Implant,30000-40000,Yes,NO
+676,676,799,5641311,M,Weekday,58,12,Employed,Flap Surgery,25000-35000,Yes,NO
+677,677,800,5620174,F,Weekend,56,3,Employed,Dental Implant,30000-40000,Yes,YES
+678,678,801,5637621,F,Weekend,32,3,Employed,Restorations,1500-2500,Yes,YES
+679,679,802,5634224,F,Weekend,34,2,Employed,Restorations,1500-2500,Yes,YES
+680,680,803,5638956,F,Weekday,68,7,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+681,681,804,5600587,F,Weekend,42,4,Employed,Scaling,1000-3000,Yes,YES
+682,682,805,5587601,F,Weekend,30,12,Employed,Dental Implant,30000-40000,Yes,YES
+683,683,806,5626992,M,Weekend,41,7,Employed,Scaling,1000-3000,Yes,NO
+684,684,807,5629903,F,Weekend,26,4,Employed,Braces,30000-40000,Yes,YES
+685,685,808,5558030,F,Weekday,7,8,Unemployed,Restorations,1500-2500,No,NO
+686,686,809,5590725,M,Weekday,11,4,Unemployed,Scaling,1000-3000,No,YES
+687,687,810,5640146,F,Weekend,54,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+688,688,811,5531303,M,Weekday,17,8,Unemployed,Extractions,1000-2000,No,NO
+689,689,812,5639643,M,Weekday,4,7,Unemployed,Pulpectomy,4000-6000,No,NO
+690,690,813,5611514,F,Weekday,72,7,Unemployed,Scaling,1000-3000,No,NO
+691,691,814,5537656,F,Weekend,59,3,Employed,Flap Surgery,25000-35000,Yes,YES
+692,692,815,5562536,F,Weekend,61,6,Unemployed,Restorations,1500-2500,No,NO
+693,693,816,5504986,M,Weekend,3,8,Unemployed,Pulpectomy,4000-6000,No,YES
+694,694,817,5634115,F,Weekend,15,6,Unemployed,Extractions,1000-2000,No,NO
+695,695,818,5499773,F,Weekend,19,3,Unemployed,Braces,30000-40000,No,YES
+696,696,819,5612394,F,Weekend,33,1,Employed,Restorations,1500-2500,Yes,YES
+697,697,820,5638357,F,Weekend,18,6,Unemployed,Restorations,1500-2500,No,NO
+698,698,821,5573866,F,Weekend,79,2,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+699,699,822,5639193,F,Weekend,32,8,Employed,Restorations,1500-2500,Yes,YES
+700,700,823,5478830,F,Weekend,62,8,Unemployed,Restorations,1500-2500,No,NO
+701,701,824,5613149,M,Weekend,32,12,Employed,Restorations,1500-2500,Yes,YES
+702,702,825,5642297,M,Weekend,69,6,Unemployed,Scaling,1000-3000,No,NO
+703,703,826,5640762,F,Weekend,40,2,Employed,Scaling,1000-3000,Yes,YES
+704,704,827,5640754,F,Weekend,60,9,Employed,Flap Surgery,25000-35000,Yes,YES
+705,705,828,5489434,F,Weekend,33,3,Employed,Restorations,1500-2500,Yes,YES
+706,706,829,5604293,M,Weekday,78,2,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+707,707,830,5642753,F,Weekend,25,5,Employed,Braces,30000-40000,Yes,NO
+708,708,831,5623727,M,Weekday,20,11,Unemployed,Restorations,1500-2500,No,NO
+709,709,832,5638428,F,Weekend,37,5,Employed,Extractions,1000-2000,Yes,NO
+710,710,833,5630458,M,Weekday,14,6,Unemployed,Scaling,1000-3000,No,NO
+711,711,834,5642497,F,Weekend,53,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+712,712,835,5634029,F,Weekday,18,9,Unemployed,Restorations,1500-2500,No,NO
+713,713,836,5631091,F,Weekend,57,9,Employed,Dental Implant,30000-40000,Yes,YES
+714,714,837,5639882,F,Weekend,37,10,Employed,Extractions,1000-2000,Yes,NO
+715,715,838,5537936,F,Weekday,20,10,Unemployed,Restorations,1500-2500,No,NO
+716,716,839,5594013,F,Weekend,26,3,Employed,Braces,30000-40000,Yes,YES
+717,717,840,5536618,M,Weekday,9,7,Unemployed,Extractions,1000-2000,No,NO
+718,718,841,5641476,F,Weekday,62,11,Unemployed,Flap Surgery,25000-35000,No,NO
+719,719,842,5640167,F,Weekend,40,3,Employed,Scaling,1000-3000,Yes,YES
+720,720,843,5616140,M,Weekday,69,1,Unemployed,Flap Surgery,25000-35000,No,YES
+721,721,844,5629513,M,Weekend,54,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+722,722,845,5470709,M,Weekend,59,2,Employed,Flap Surgery,25000-35000,Yes,YES
+723,723,846,5563636,F,Weekend,28,9,Employed,Braces,30000-40000,Yes,YES
+724,724,847,5637570,M,Weekday,17,6,Unemployed,Extractions,1000-2000,No,NO
+725,725,848,5641170,F,Weekend,26,12,Employed,Braces,30000-40000,Yes,YES
+726,726,849,5639345,F,Weekday,60,12,Employed,Flap Surgery,25000-35000,Yes,NO
+727,727,850,5640385,M,Weekend,52,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+728,728,851,5637485,F,Weekend,29,10,Employed,Braces,30000-40000,Yes,YES
+729,729,852,5625977,F,Weekday,72,1,Unemployed,Scaling,1000-3000,No,YES
+730,730,853,5562707,F,Weekend,27,7,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+731,731,854,5532316,M,Weekday,70,6,Unemployed,Scaling,1000-3000,No,NO
+732,732,855,5640062,F,Weekend,37,11,Employed,Extractions,1000-2000,Yes,NO
+733,733,856,5617313,M,Weekend,32,8,Employed,Restorations,1500-2500,Yes,YES
+734,734,857,5640565,F,Weekend,70,7,Unemployed,Scaling,1000-3000,No,NO
+735,735,858,5520168,F,Weekend,19,6,Unemployed,Restorations,1500-2500,No,NO
+736,736,859,5501708,M,Weekend,66,5,Unemployed,Dental Implant,30000-40000,No,NO
+737,737,860,5642570,F,Weekend,34,2,Employed,Restorations,1500-2500,Yes,YES
+738,738,861,5641440,F,Weekend,69,6,Unemployed,Flap Surgery,25000-35000,No,NO
+739,739,862,5639158,F,Weekend,39,12,Employed,Restorations,1500-2500,Yes,YES
+740,740,863,5607917,M,Weekend,6,7,Unemployed,Restorations,1500-2500,No,NO
+741,741,864,5626046,M,Weekend,77,1,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+742,742,865,5595578,F,Weekday,68,3,Unemployed,Dental Implant,30000-40000,No,YES
+743,743,866,5640354,F,Weekday,86,6,Unemployed,Extractions,1000-2000,No,NO
+744,744,867,5557753,F,Weekday,57,3,Employed,Dental Implant,30000-40000,Yes,YES
+745,745,868,5640181,F,Weekday,21,12,Unemployed,Root Canal,6000-10000,No,NO
+746,746,869,5526609,F,Weekday,88,3,Unemployed,Extractions,1000-2000,No,YES
+747,747,870,5572635,M,Weekday,63,5,Unemployed,Restorations,1500-2500,No,NO
+748,748,871,5634038,F,Weekday,15,1,Unemployed,Extractions,1000-2000,No,YES
+749,749,872,5586680,M,Weekday,64,10,Unemployed,Extractions,1000-2000,No,NO
+750,750,873,5562486,F,Weekday,56,4,Employed,Dental Implant,30000-40000,Yes,YES
+751,751,874,5600695,M,Weekend,29,5,Employed,Dental Implant,30000-40000,Yes,NO
+752,752,875,5630377,M,Weekend,52,12,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+753,753,876,5615631,F,Weekday,19,12,Unemployed,Restorations,1500-2500,No,NO
+754,754,877,5641195,F,Weekday,80,11,Unemployed,Fixed Prosthetic Denture,5000-15000,No,NO
+755,755,878,5639921,F,Weekend,25,9,Employed,Braces,30000-40000,Yes,YES
+756,756,879,5641210,M,Weekday,9,3,Unemployed,Extractions,1000-2000,No,YES
+757,757,880,5631099,F,Weekend,43,11,Employed,Root Canal,6000-10000,Yes,YES
+758,758,881,5597672,F,Weekday,23,3,Unemployed,Root Canal,6000-10000,No,YES
+759,759,882,5640463,M,Weekend,25,7,Employed,Braces,30000-40000,Yes,NO
+760,760,883,5583683,M,Weekday,80,11,Unemployed,Fixed Prosthetic Denture,5000-15000,No,NO
+761,761,884,5633183,F,Weekend,55,3,Employed,Dental Implant,30000-40000,Yes,YES
+762,762,885,5628321,M,Weekend,28,10,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+763,763,886,5521774,F,Weekend,55,4,Employed,Dental Implant,30000-40000,Yes,YES
+764,764,887,5640552,M,Weekend,32,1,Employed,Restorations,1500-2500,Yes,YES
+765,765,888,5537281,M,Weekend,38,11,Employed,Extractions,1000-2000,Yes,NO
+766,766,889,5639966,F,Weekend,34,9,Employed,Restorations,1500-2500,Yes,YES
+767,767,890,5525500,M,Weekday,10,7,Unemployed,Extractions,1000-2000,No,NO
+768,768,891,5540523,M,Weekday,5,10,Unemployed,Pulpectomy,4000-6000,No,NO
+769,769,892,5637875,F,Weekend,53,6,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+770,770,893,5642198,M,Weekday,8,8,Unemployed,Extractions,1000-2000,No,NO
+771,771,894,5637510,M,Weekend,43,7,Employed,Root Canal,6000-10000,Yes,YES
+772,772,895,5385496,F,Weekday,7,1,Unemployed,Restorations,1500-2500,No,YES
+773,773,896,5642454,M,Weekday,8,11,Unemployed,Extractions,1000-2000,No,NO
+774,774,897,5543357,M,Weekday,62,10,Unemployed,Restorations,1500-2500,No,NO
+775,775,898,5625975,M,Weekday,9,4,Unemployed,Extractions,1000-2000,No,YES
+776,776,899,5635632,F,Weekend,24,5,Employed,Braces,30000-40000,Yes,NO
+777,777,900,5639887,M,Weekday,63,7,Unemployed,Restorations,1500-2500,No,NO
+778,778,901,5539339,F,Weekday,68,8,Unemployed,Dental Implant,30000-40000,No,NO
+779,779,902,5642212,M,Weekday,67,6,Unemployed,Dental Implant,30000-40000,No,NO
+780,780,903,5640241,F,Weekday,63,8,Unemployed,Restorations,1500-2500,No,NO
+781,781,904,5639969,F,Weekend,32,3,Employed,Restorations,1500-2500,Yes,YES
+782,782,905,5484718,M,Weekday,15,8,Unemployed,Extractions,1000-2000,No,NO
+783,783,906,5640895,F,Weekend,40,3,Employed,Scaling,1000-3000,Yes,YES
+784,784,907,5551583,F,Weekend,15,6,Unemployed,Extractions,1000-2000,No,NO
+785,785,908,5637828,F,Weekend,58,1,Employed,Flap Surgery,25000-35000,Yes,YES
+786,786,909,5527314,F,Weekend,32,9,Employed,Braces,30000-40000,Yes,YES
+787,787,910,5623102,F,Weekend,80,11,Unemployed,Fixed Prosthetic Denture,5000-15000,No,NO
+788,788,911,5630442,M,Weekend,74,5,Unemployed,Root Canal,6000-10000,No,NO
+789,789,912,5565582,M,Weekend,4,6,Unemployed,Pulpectomy,4000-6000,No,YES
+790,790,913,5550928,M,Weekend,3,10,Unemployed,Pulpectomy,4000-6000,No,YES
+791,791,914,5639942,M,Weekend,22,12,Unemployed,Root Canal,6000-10000,No,NO
+792,792,915,5639131,F,Weekend,10,5,Unemployed,Extractions,1000-2000,No,NO
+793,793,916,5579138,M,Weekend,42,7,Employed,Scaling,1000-3000,Yes,NO
+794,794,917,5590418,F,Weekend,17,12,Unemployed,Extractions,1000-2000,No,NO
+795,795,918,5638790,M,Weekend,75,12,Unemployed,Root Canal,6000-10000,No,NO
+796,796,919,5639896,M,Holiday,31,10,Unemployed,Braces,30000-40000,No,NO
+797,797,920,5641019,F,Holiday,30,8,Unemployed,Braces,30000-40000,No,NO
+798,798,921,5638463,F,Holiday,79,1,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+799,799,922,5552914,F,Weekend,43,7,Employed,Root Canal,6000-10000,Yes,YES
+800,800,923,5595653,F,Holiday,23,8,Unemployed,Root Canal,6000-10000,No,NO
+801,801,924,5471056,M,Holiday,10,10,Unemployed,Extractions,1000-2000,No,NO
+802,802,925,5399572,M,Weekday,60,3,Employed,Flap Surgery,25000-35000,Yes,YES
+803,803,926,5531912,F,Weekend,40,12,Employed,Scaling,1000-3000,Yes,YES
+804,804,927,5583721,F,Weekday,61,7,Unemployed,Restorations,1500-2500,No,NO
+805,805,928,5637433,F,Weekend,30,2,Employed,Braces,30000-40000,Yes,YES
+806,806,929,5617321,M,Weekend,56,8,Employed,Dental Implant,30000-40000,Yes,YES
+807,807,930,5638228,F,Weekday,60,8,Employed,Flap Surgery,25000-35000,Yes,NO
+808,808,931,5630575,F,Weekday,4,7,Unemployed,Pulpectomy,4000-6000,No,NO
+809,809,932,5637879,F,Weekday,17,1,Unemployed,Extractions,1000-2000,No,YES
+810,810,933,5631083,F,Weekend,31,8,Employed,Restorations,1500-2500,Yes,YES
+811,811,934,5521768,F,Weekend,36,10,Employed,Extractions,1000-2000,Yes,NO
+812,812,935,5642906,F,Weekend,53,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+813,813,936,5578737,F,Weekday,62,4,Unemployed,Restorations,1500-2500,No,YES
+814,814,937,5639951,F,Weekend,25,9,Employed,Braces,30000-40000,Yes,YES
+815,815,938,5512177,F,Weekend,54,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+816,816,939,5641196,M,Weekday,6,4,Unemployed,Restorations,1500-2500,No,YES
+817,817,940,5478299,F,Weekend,41,1,Employed,Scaling,1000-3000,Yes,YES
+818,818,941,5634243,F,Weekday,10,5,Unemployed,Extractions,1000-2000,No,NO
+819,819,942,5536357,F,Weekend,37,4,Employed,Extractions,1000-2000,Yes,YES
+820,820,943,5604006,F,Weekend,29,1,Employed,Dental Implant,30000-40000,Yes,YES
+821,821,944,5510049,M,Weekend,25,12,Employed,Braces,30000-40000,Yes,YES
+822,822,945,5626178,M,Weekday,12,10,Unemployed,Scaling,1000-3000,No,NO
+823,823,946,5637890,M,Weekday,63,5,Unemployed,Restorations,1500-2500,No,NO
+824,824,947,5598510,M,Weekend,25,1,Employed,Braces,30000-40000,Yes,YES
+825,825,948,5639398,F,Weekend,36,11,Employed,Extractions,1000-2000,Yes,NO
+826,826,949,5641717,F,Weekend,26,2,Employed,Braces,30000-40000,Yes,YES
+827,827,950,5642628,F,Weekend,17,8,Unemployed,Extractions,1000-2000,No,NO
+828,828,951,5639788,M,Weekend,4,6,Unemployed,Pulpectomy,4000-6000,No,YES
+829,829,952,5548401,F,Weekend,31,1,Employed,Braces,30000-40000,Yes,YES
+830,830,953,5640735,M,Weekend,46,6,Employed,Root Canal,6000-10000,Yes,YES
+831,831,954,5639176,F,Weekend,46,10,Employed,Root Canal,6000-10000,Yes,YES
+832,832,955,5592441,F,Holiday,69,1,Unemployed,Scaling,1000-3000,No,YES
+833,833,956,5640710,M,Weekend,32,10,Employed,Braces,30000-40000,Yes,YES
+834,834,957,5642643,F,Weekend,22,12,Unemployed,Root Canal,6000-10000,No,NO
+835,835,958,5547183,F,Weekend,43,9,Employed,Root Canal,6000-10000,Yes,YES
+836,836,959,5637976,M,Weekend,3,2,Unemployed,Pulpectomy,4000-6000,No,YES
+837,837,960,5637010,M,Weekend,40,1,Employed,Scaling,1000-3000,Yes,YES
+838,838,961,5519567,F,Weekend,40,1,Employed,Scaling,1000-3000,Yes,YES
+839,839,962,5638984,F,Weekend,52,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+840,840,963,5485577,M,Weekend,14,4,Unemployed,Scaling,1000-3000,No,YES
+841,841,964,5552544,F,Weekend,42,8,Employed,Scaling,1000-3000,Yes,YES
+842,842,965,5476407,F,Weekend,44,6,Employed,Root Canal,6000-10000,Yes,YES
+843,843,966,5612431,M,Weekend,65,9,Unemployed,Dental Implant,30000-40000,No,NO
+844,844,967,5598651,M,Weekend,37,1,Employed,Extractions,1000-2000,Yes,YES
+845,845,968,5628907,F,Weekend,24,8,Employed,Braces,30000-40000,Yes,YES
+846,846,969,5539343,M,Weekend,37,7,Employed,Extractions,1000-2000,Yes,NO
+847,847,970,5591778,F,Weekend,27,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+848,848,971,5641927,F,Weekend,57,11,Employed,Dental Implant,30000-40000,Yes,YES
+849,849,972,5546749,F,Weekend,75,7,Unemployed,Root Canal,6000-10000,No,NO
+850,850,973,5642767,F,Weekend,29,11,Employed,Dental Implant,30000-40000,Yes,YES
+851,851,974,5639484,F,Weekend,24,6,Employed,Braces,30000-40000,Yes,NO
+852,852,975,5579258,F,Weekend,52,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+853,853,976,5629428,F,Weekday,61,7,Unemployed,Restorations,1500-2500,No,NO
+854,854,977,5616693,F,Weekend,29,2,Employed,Dental Implant,30000-40000,Yes,YES
+855,855,978,5639618,M,Weekend,54,7,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+856,856,979,5618146,F,Weekday,73,3,Unemployed,Root Canal,6000-10000,No,YES
+857,857,980,5608249,F,Weekend,54,12,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+858,858,981,5559991,F,Weekend,44,9,Employed,Root Canal,6000-10000,Yes,YES
+859,859,982,5562688,F,Weekend,58,4,Employed,Flap Surgery,25000-35000,Yes,YES
+860,860,983,5531208,M,Weekend,41,6,Employed,Scaling,1000-3000,Yes,NO
+861,861,984,5565493,M,Weekday,60,7,Employed,Flap Surgery,25000-35000,Yes,NO
+862,862,985,5628338,F,Weekend,44,11,Employed,Root Canal,6000-10000,Yes,YES
+863,863,986,5618143,F,Weekend,45,7,Employed,Root Canal,6000-10000,Yes,YES
+864,864,987,5639121,M,Weekend,55,8,Employed,Dental Implant,30000-40000,Yes,YES
+865,865,988,5582866,M,Weekday,23,11,Unemployed,Root Canal,6000-10000,No,NO
+866,866,989,5592287,M,Weekend,29,8,Employed,Braces,30000-40000,Yes,YES
+867,867,990,5631489,M,Weekday,16,8,Unemployed,Extractions,1000-2000,No,NO
+868,868,991,5517556,M,Holiday,12,8,Unemployed,Scaling,1000-3000,No,NO
+869,869,992,5538524,M,Weekend,55,4,Employed,Dental Implant,30000-40000,Yes,YES
+870,870,993,5494579,F,Holiday,19,2,Unemployed,Restorations,1500-2500,No,YES
+871,871,994,5618133,M,Weekend,24,5,Employed,Braces,30000-40000,Yes,NO
+872,872,995,5638341,F,Holiday,17,11,Unemployed,Extractions,1000-2000,No,NO
+873,873,996,5611768,M,Holiday,86,8,Unemployed,Extractions,1000-2000,No,NO
+874,874,997,5595189,F,Holiday,77,3,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+875,875,998,5638778,F,Holiday,20,7,Unemployed,Restorations,1500-2500,No,NO
+876,876,999,5640433,M,Holiday,3,3,Unemployed,Pulpectomy,4000-6000,No,YES
+877,877,1000,5542592,F,Weekend,36,3,Employed,Extractions,1000-2000,Yes,YES
+878,878,1001,5638064,M,Weekend,51,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+879,879,1002,5560310,F,Weekday,64,12,Unemployed,Restorations,1500-2500,No,NO
+880,880,1003,5536651,M,Weekday,7,6,Unemployed,Restorations,1500-2500,No,NO
+881,881,1004,5637513,F,Weekend,35,7,Employed,Extractions,1000-2000,Yes,NO
+882,882,1005,5623458,F,Weekday,61,4,Unemployed,Restorations,1500-2500,No,YES
+883,883,1006,5641808,M,Weekday,12,4,Unemployed,Scaling,1000-3000,No,YES
+884,884,1007,5637767,F,Weekday,85,8,Unemployed,Extractions,1000-2000,No,NO
+885,885,1008,5640555,F,Weekday,10,12,Unemployed,Extractions,1000-2000,No,NO
+886,886,1009,5637753,F,Weekend,51,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+887,887,1010,5502075,M,Weekday,12,10,Unemployed,Scaling,1000-3000,No,NO
+888,888,1011,5628928,F,Weekend,37,1,Employed,Extractions,1000-2000,Yes,YES
+889,889,1012,5631665,F,Weekend,43,6,Employed,Root Canal,6000-10000,Yes,YES
+890,890,1013,5503228,F,Weekend,39,5,Employed,Scaling,1000-3000,Yes,NO
+891,891,1014,5627333,F,Weekday,85,1,Unemployed,Extractions,1000-2000,No,YES
+892,892,1015,5641445,F,Weekday,65,10,Unemployed,Dental Implant,30000-40000,No,NO
+893,893,1016,5585973,M,Weekday,3,4,Unemployed,Pulpectomy,4000-6000,No,YES
+894,894,1017,5602845,F,Weekend,36,2,Employed,Extractions,1000-2000,Yes,YES
+895,895,1018,5594665,F,Weekend,27,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+896,896,1019,5562632,M,Weekend,29,1,Employed,Dental Implant,30000-40000,Yes,YES
+897,897,1020,5607914,F,Weekend,50,2,Employed,Braces,30000-40000,Yes,YES
+898,898,1021,5642516,M,Weekend,54,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+899,899,1022,5641931,F,Weekend,27,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+900,900,1023,5597749,M,Weekday,79,3,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+901,901,1024,5505726,F,Weekday,20,8,Unemployed,Dental Implant,30000-40000,No,NO
+902,902,1025,5611897,M,Weekday,62,6,Unemployed,Dental Implant,30000-40000,No,NO
+903,903,1026,5634061,F,Weekday,23,1,Unemployed,Root Canal,6000-10000,No,YES
+904,904,1027,5574527,F,Weekday,5,12,Unemployed,Pulpectomy,4000-6000,No,NO
+905,905,1028,5571816,F,Weekend,37,6,Employed,Extractions,1000-2000,Yes,NO
+906,906,1029,5639421,F,Weekend,54,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+907,907,1030,5638120,F,Weekday,15,7,Unemployed,Extractions,1000-2000,No,NO
+908,908,1031,5631419,M,Weekend,60,3,Employed,Flap Surgery,25000-35000,Yes,YES
+909,909,1032,5547715,F,Weekend,37,2,Employed,Extractions,1000-2000,Yes,YES
+910,910,1033,5566277,F,Weekday,73,5,Unemployed,Root Canal,6000-10000,No,NO
+911,911,1034,5558848,M,Weekday,70,7,Unemployed,Flap Surgery,25000-35000,No,NO
+912,912,1035,5535884,F,Weekday,59,1,Employed,Flap Surgery,25000-35000,Yes,YES
+913,913,1036,5641058,F,Weekday,9,11,Unemployed,Extractions,1000-2000,No,NO
+914,914,1037,5642306,M,Weekday,73,2,Unemployed,Root Canal,6000-10000,No,YES
+915,915,1038,5563279,M,Weekend,25,11,Employed,Braces,30000-40000,Yes,YES
+916,916,1039,5620070,F,Weekend,44,8,Employed,Root Canal,6000-10000,Yes,YES
+917,917,1040,5636933,F,Weekend,30,6,Employed,Dental Implant,30000-40000,Yes,NO
+918,918,1041,5639598,M,Weekday,8,3,Unemployed,Extractions,1000-2000,No,YES
+919,919,1042,5479053,F,Weekday,67,4,Unemployed,Dental Implant,30000-40000,No,YES
+920,920,1043,5623726,F,Weekday,3,6,Unemployed,Pulpectomy,4000-6000,No,NO
+921,921,1044,5639659,F,Weekday,6,6,Unemployed,Restorations,1500-2500,No,NO
+922,922,1045,5638564,F,Weekday,10,4,Unemployed,Extractions,1000-2000,No,YES
+923,923,1046,5539151,M,Weekend,30,12,Employed,Dental Implant,30000-40000,Yes,YES
+924,924,1047,5638054,M,Weekday,66,7,Unemployed,Dental Implant,30000-40000,No,NO
+925,925,1048,5641752,M,Weekend,30,3,Employed,Dental Implant,30000-40000,Yes,YES
+926,926,1049,5502279,M,Weekday,3,2,Unemployed,Pulpectomy,4000-6000,No,YES
+927,927,1050,5623635,F,Weekend,52,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+928,928,1051,5557543,F,Weekday,63,2,Unemployed,Restorations,1500-2500,No,YES
+929,929,1052,5558842,F,Weekday,14,12,Unemployed,Scaling,1000-3000,No,NO
+930,930,1053,5595358,M,Weekday,51,12,Employed,Restorations,1500-2500,Yes,NO
+931,931,1054,5551523,F,Weekday,35,8,Employed,Extractions,1000-2000,Yes,NO
+932,932,1055,5642813,M,Weekday,34,7,Employed,Restorations,1500-2500,Yes,NO
+933,933,1056,5637730,F,Weekday,40,7,Employed,Scaling,1000-3000,Yes,NO
+934,934,1057,5630445,M,Weekday,24,10,Employed,Braces,30000-40000,Yes,NO
+935,935,1058,5598810,F,Weekday,35,8,Employed,Extractions,1000-2000,Yes,NO
+936,936,1059,5473380,M,Weekday,17,4,Unemployed,Extractions,1000-2000,No,YES
+937,937,1060,5639516,F,Weekday,36,3,Employed,Extractions,1000-2000,Yes,YES
+938,938,1061,5508599,F,Weekday,39,6,Employed,Scaling,1000-3000,Yes,NO
+939,939,1062,5521207,F,Weekday,3,2,Unemployed,Pulpectomy,4000-6000,No,YES
+940,940,1063,5501671,M,Weekday,47,3,Employed,Braces,30000-40000,Yes,YES
+941,941,1064,5642545,M,Weekday,7,7,Unemployed,Restorations,1500-2500,No,NO
+942,942,1065,5639057,M,Weekday,72,12,Unemployed,Scaling,1000-3000,No,NO
+943,943,1066,5640040,F,Weekday,42,8,Employed,Scaling,1000-3000,Yes,NO
+944,944,1067,5639495,M,Weekday,32,9,Employed,Restorations,1500-2500,Yes,NO
+945,945,1068,5639649,F,Weekday,46,5,Employed,Root Canal,6000-10000,Yes,YES
+946,946,1069,5557685,M,Weekday,72,10,Unemployed,Scaling,1000-3000,No,NO
+947,947,1070,5625001,F,Weekend,46,3,Employed,Root Canal,6000-10000,Yes,YES
+948,948,1071,5641341,M,Weekday,4,5,Unemployed,Pulpectomy,4000-6000,No,NO
+949,949,1072,5502275,M,Weekday,3,12,Unemployed,Pulpectomy,4000-6000,No,NO
+950,950,1073,5512052,F,Weekend,29,11,Employed,Dental Implant,30000-40000,Yes,YES
+951,951,1074,5537901,M,Weekend,31,5,Employed,Restorations,1500-2500,Yes,NO
+952,952,1075,5639204,M,Weekend,34,4,Employed,Restorations,1500-2500,Yes,YES
+953,953,1076,5639419,M,Weekend,45,10,Employed,Root Canal,6000-10000,Yes,YES
+954,954,1077,5575654,F,Weekend,23,10,Unemployed,Root Canal,6000-10000,No,NO
+955,955,1078,5564809,F,Weekend,27,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+956,956,1079,5639853,M,Weekend,12,5,Unemployed,Scaling,1000-3000,No,NO
+957,957,1080,5597643,F,Weekend,30,2,Employed,Dental Implant,30000-40000,Yes,YES
+958,958,1081,5639990,F,Weekend,27,12,Employed,Braces,30000-40000,Yes,YES
+959,959,1082,5619688,M,Weekend,59,11,Employed,Flap Surgery,25000-35000,Yes,YES
+960,960,1083,5577039,F,Weekend,19,3,Unemployed,Dental Implant,30000-40000,No,YES
+961,961,1084,5555334,M,Weekend,44,1,Employed,Root Canal,6000-10000,Yes,YES
+962,962,1085,5478298,F,Weekend,58,12,Employed,Flap Surgery,25000-35000,Yes,YES
+963,963,1086,5565811,F,Weekday,23,2,Unemployed,Root Canal,6000-10000,No,YES
+964,964,1087,5641859,M,Weekday,10,10,Unemployed,Extractions,1000-2000,No,NO
+965,965,1088,5575145,F,Weekend,24,9,Employed,Braces,30000-40000,Yes,YES
+966,966,1089,5538301,F,Weekend,27,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+967,967,1090,5566072,F,Weekend,59,11,Employed,Flap Surgery,25000-35000,Yes,YES
+968,968,1091,5616091,F,Weekday,51,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+969,969,1092,5637968,F,Weekend,24,1,Employed,Braces,30000-40000,Yes,YES
+970,970,1093,5584261,M,Weekend,46,4,Employed,Root Canal,6000-10000,Yes,YES
+971,971,1094,5611745,F,Weekend,34,10,Employed,Restorations,1500-2500,Yes,YES
+972,972,1095,5520171,F,Weekday,67,7,Unemployed,Dental Implant,30000-40000,No,NO
+973,973,1096,5592387,F,Weekend,28,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+974,974,1097,5589713,M,Weekday,11,1,Unemployed,Scaling,1000-3000,No,YES
+975,975,1098,5637736,M,Weekend,27,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+976,976,1099,5612307,F,Weekend,42,4,Employed,Scaling,1000-3000,Yes,YES
+977,977,1100,5562686,F,Weekend,44,2,Employed,Root Canal,6000-10000,Yes,YES
+978,978,1101,5500593,F,Weekend,52,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+979,979,1102,5583666,F,Weekday,32,10,Employed,Braces,30000-40000,Yes,NO
+980,980,1103,5642503,F,Weekend,24,4,Employed,Braces,30000-40000,Yes,YES
+981,981,1104,5641325,M,Weekend,28,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+982,982,1105,5639783,F,Weekday,34,7,Employed,Restorations,1500-2500,Yes,NO
+983,983,1106,5639849,M,Weekday,10,4,Unemployed,Extractions,1000-2000,No,YES
+984,984,1107,5637475,M,Weekday,72,12,Unemployed,Scaling,1000-3000,No,NO
+985,985,1108,5572823,F,Weekend,52,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+986,986,1109,5595905,F,Weekday,68,9,Unemployed,Scaling,1000-3000,No,NO
+987,987,1110,5551288,F,Weekday,16,9,Unemployed,Extractions,1000-2000,No,NO
+988,988,1111,5639980,M,Weekend,51,12,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+989,989,1112,5636530,F,Weekend,45,3,Employed,Root Canal,6000-10000,Yes,YES
+990,990,1113,5570160,F,Weekday,19,1,Unemployed,Restorations,1500-2500,No,YES
+991,991,1114,5630461,M,Weekday,32,11,Employed,Restorations,1500-2500,Yes,NO
+992,992,1115,5637912,F,Weekend,36,3,Employed,Extractions,1000-2000,Yes,YES
+993,993,1116,5502121,F,Weekday,23,12,Unemployed,Root Canal,6000-10000,Yes,NO
+994,994,1117,5641729,F,Weekday,18,7,Unemployed,Restorations,1500-2500,No,NO
+995,995,1118,5558026,M,Weekday,15,3,Unemployed,Extractions,1000-2000,No,YES
+996,996,1119,5628585,F,Weekday,15,2,Unemployed,Extractions,1000-2000,No,YES
+997,997,1120,5560170,F,Weekend,43,2,Employed,Root Canal,6000-10000,Yes,YES
+998,998,1121,5637533,F,Weekday,15,7,Unemployed,Extractions,1000-2000,No,NO
+999,999,1122,5639571,F,Weekend,29,3,Employed,Braces,30000-40000,Yes,YES
+1000,1000,1123,5478883,F,Weekend,45,7,Employed,Root Canal,6000-10000,Yes,YES
+1001,1001,1124,5640464,M,Weekday,21,8,Unemployed,Root Canal,6000-10000,No,NO
+1002,1002,1125,5637617,F,Weekend,55,7,Employed,Dental Implant,30000-40000,Yes,NO
+1003,1003,1126,5638895,M,Weekday,43,6,Employed,Root Canal,6000-10000,Yes,YES
+1004,1004,1127,5638023,F,Weekday,54,12,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+1005,1005,1128,5564672,M,Weekend,53,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1006,1006,1129,5595483,M,Weekday,62,9,Unemployed,Scaling,1000-3000,No,NO
+1007,1007,1130,5640101,M,Weekday,37,11,Employed,Extractions,1000-2000,Yes,NO
+1008,1008,1131,5642142,F,Weekend,36,6,Employed,Extractions,1000-2000,Yes,NO
+1009,1009,1132,5641348,F,Weekend,26,11,Employed,Braces,30000-40000,Yes,YES
+1010,1010,1133,5604859,F,Weekday,14,12,Unemployed,Scaling,1000-3000,No,NO
+1011,1011,1134,5599192,F,Weekend,40,5,Employed,Scaling,1000-3000,Yes,NO
+1012,1012,1135,5633116,M,Weekend,34,4,Employed,Restorations,1500-2500,Yes,YES
+1013,1013,1136,5629181,M,Weekend,64,3,Unemployed,Flap Surgery,25000-35000,No,YES
+1014,1014,1137,5617275,M,Weekend,32,7,Employed,Braces,30000-40000,Yes,NO
+1015,1015,1138,5634036,F,Holiday,32,1,Employed,Restorations,1500-2500,Yes,YES
+1016,1016,1139,5539566,M,Holiday,58,6,Employed,Flap Surgery,25000-35000,Yes,NO
+1017,1017,1140,5641186,F,Holiday,46,9,Employed,Root Canal,6000-10000,Yes,YES
+1018,1018,1141,5235643,F,Holiday,26,6,Employed,Braces,30000-40000,Yes,NO
+1019,1019,1142,5572570,F,Holiday,42,7,Employed,Scaling,1000-3000,Yes,NO
+1020,1020,1143,5619053,F,Holiday,44,2,Employed,Root Canal,6000-10000,Yes,YES
+1021,1021,1144,5631437,F,Holiday,20,8,Unemployed,Restorations,1500-2500,No,NO
+1022,1022,1145,5545628,F,Holiday,30,1,Employed,Dental Implant,30000-40000,Yes,YES
+1023,1023,1146,5419856,F,Holiday,51,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1024,1024,1147,5490381,F,Holiday,12,12,Unemployed,Scaling,1000-3000,No,NO
+1025,1025,1148,5537976,F,Holiday,19,12,Unemployed,Restorations,1500-2500,No,NO
+1026,1026,1149,5600825,F,Holiday,18,10,Unemployed,Restorations,1500-2500,No,NO
+1027,1027,1150,5632845,M,Holiday,35,3,Employed,Extractions,1000-2000,Yes,YES
+1028,1028,1151,5641523,F,Holiday,51,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1029,1029,1152,5639778,M,Holiday,24,9,Employed,Braces,30000-40000,Yes,YES
+1030,1030,1153,5633843,M,Weekday,23,10,Unemployed,Root Canal,6000-10000,No,NO
+1031,1031,1154,5522464,M,Weekend,44,6,Employed,Root Canal,6000-10000,Yes,YES
+1032,1032,1155,5636932,F,Weekend,43,8,Employed,Root Canal,6000-10000,Yes,YES
+1033,1033,1156,5618643,F,Weekday,23,5,Unemployed,Root Canal,6000-10000,No,NO
+1034,1034,1157,5638329,M,Weekday,20,8,Unemployed,Restorations,1500-2500,No,NO
+1035,1035,1158,5539852,M,Weekend,34,1,Employed,Restorations,1500-2500,Yes,YES
+1036,1036,1159,5498615,M,Weekend,52,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1037,1037,1160,5586909,M,Weekday,19,8,Unemployed,Braces,30000-40000,No,NO
+1038,1038,1161,5577289,F,Weekend,37,2,Employed,Extractions,1000-2000,Yes,YES
+1039,1039,1162,5611256,M,Weekday,39,1,Employed,Scaling,1000-3000,Yes,YES
+1040,1040,1163,5626454,M,Weekend,17,3,Employed,Braces,30000-40000,Yes,YES
+1041,1041,1164,5515887,F,Weekend,27,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1042,1042,1165,5634015,F,Weekday,12,9,Unemployed,Scaling,1000-3000,No,NO
+1043,1043,1166,5637792,F,Weekday,15,8,Unemployed,Extractions,1000-2000,No,NO
+1044,1044,1167,5638461,F,Weekend,35,11,Employed,Extractions,1000-2000,Yes,NO
+1045,1045,1168,5631075,F,Weekend,39,11,Employed,Scaling,1000-3000,Yes,YES
+1046,1046,1169,5537025,M,Weekday,23,9,Unemployed,Root Canal,6000-10000,No,NO
+1047,1047,1170,5488182,F,Weekend,39,12,Employed,Scaling,1000-3000,Yes,YES
+1048,1048,1171,5637665,M,Weekend,58,2,Employed,Flap Surgery,25000-35000,Yes,YES
+1049,1049,1172,5571781,F,Weekend,11,12,Unemployed,Scaling,1000-3000,No,NO
+1050,1050,1173,5637709,M,Weekend,39,3,Employed,Scaling,1000-3000,Yes,YES
+1051,1051,1174,5632746,F,Weekend,15,6,Unemployed,Extractions,1000-2000,No,NO
+1052,1052,1175,5539205,M,Weekend,58,6,Employed,Flap Surgery,25000-35000,Yes,NO
+1053,1053,1176,5641468,F,Weekend,21,3,Unemployed,Root Canal,6000-10000,No,YES
+1054,1054,1177,5525531,F,Weekend,31,6,Employed,Restorations,1500-2500,Yes,NO
+1055,1055,1178,5560854,M,Weekend,59,6,Employed,Flap Surgery,25000-35000,Yes,NO
+1056,1056,1179,5507702,F,Weekend,39,4,Employed,Scaling,1000-3000,Yes,YES
+1057,1057,1180,5498537,M,Weekend,51,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1058,1058,1181,5631661,M,Weekday,43,9,Employed,Root Canal,6000-10000,Yes,NO
+1059,1059,1182,5642008,M,Weekday,59,9,Employed,Flap Surgery,25000-35000,Yes,NO
+1060,1060,1183,5639417,F,Weekend,32,7,Employed,Restorations,1500-2500,Yes,NO
+1061,1061,1184,5641977,M,Weekday,10,12,Unemployed,Extractions,1000-2000,No,NO
+1062,1062,1185,5476858,M,Weekday,20,7,Unemployed,Restorations,1500-2500,No,NO
+1063,1063,1186,5639871,M,Weekday,39,4,Employed,Scaling,1000-3000,Yes,YES
+1064,1064,1187,5640566,M,Weekday,21,5,Unemployed,Root Canal,6000-10000,No,NO
+1065,1065,1188,5637240,F,Weekday,20,2,Unemployed,Restorations,1500-2500,No,YES
+1066,1066,1189,5638418,F,Weekday,23,6,Unemployed,Root Canal,6000-10000,No,NO
+1067,1067,1190,5638639,F,Weekend,41,9,Employed,Scaling,1000-3000,Yes,YES
+1068,1068,1191,5635842,F,Weekend,25,12,Employed,Braces,30000-40000,Yes,YES
+1069,1069,1192,5517931,M,Weekday,29,3,Employed,Dental Implant,30000-40000,Yes,YES
+1070,1070,1193,5625993,M,Weekday,39,11,Employed,Scaling,1000-3000,Yes,NO
+1071,1071,1194,5639677,M,Weekend,41,2,Employed,Scaling,1000-3000,Yes,YES
+1072,1072,1195,5624183,M,Weekend,45,12,Employed,Root Canal,6000-10000,Yes,YES
+1073,1073,1196,5554616,F,Weekend,46,5,Employed,Root Canal,6000-10000,Yes,YES
+1074,1074,1197,5598603,F,Weekday,59,10,Employed,Flap Surgery,25000-35000,Yes,NO
+1075,1075,1198,5304747,F,Weekend,31,2,Employed,Restorations,1500-2500,Yes,YES
+1076,1076,1199,5531919,F,Weekday,56,7,Employed,Dental Implant,30000-40000,Yes,NO
+1077,1077,1200,5589126,M,Weekday,11,7,Unemployed,Scaling,1000-3000,No,NO
+1078,1078,1201,5629629,F,Weekday,51,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+1079,1079,1202,5641303,F,Weekend,53,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1080,1080,1203,5587797,F,Weekday,17,11,Unemployed,Extractions,1000-2000,No,NO
+1081,1081,1204,5511720,M,Weekend,53,10,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1082,1082,1205,5600826,M,Weekend,55,1,Employed,Dental Implant,30000-40000,Yes,YES
+1083,1083,1206,5638018,M,Weekday,19,8,Unemployed,Restorations,1500-2500,No,NO
+1084,1084,1207,5561169,M,Weekday,64,1,Unemployed,Restorations,1500-2500,No,YES
+1085,1085,1208,5639602,F,Weekend,59,1,Employed,Flap Surgery,25000-35000,Yes,YES
+1086,1086,1209,5611889,M,Weekday,12,6,Unemployed,Scaling,1000-3000,No,NO
+1087,1087,1210,5638121,M,Weekday,65,10,Unemployed,Dental Implant,30000-40000,No,NO
+1088,1088,1211,5637707,F,Weekend,53,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1089,1089,1212,5637604,F,Weekday,69,9,Unemployed,Scaling,1000-3000,No,NO
+1090,1090,1213,5595732,F,Weekend,32,4,Employed,Restorations,1500-2500,Yes,YES
+1091,1091,1214,5638649,F,Weekday,13,6,Unemployed,Scaling,1000-3000,No,NO
+1092,1092,1215,5592296,M,Weekend,24,7,Employed,Braces,30000-40000,Yes,NO
+1093,1093,1216,5642405,F,Weekend,35,11,Employed,Extractions,1000-2000,Yes,NO
+1094,1094,1217,5639863,M,Weekday,10,11,Unemployed,Extractions,1000-2000,No,NO
+1095,1095,1218,5641797,F,Weekend,44,12,Employed,Root Canal,6000-10000,Yes,YES
+1096,1096,1219,5631443,F,Weekend,34,2,Employed,Restorations,1500-2500,Yes,YES
+1097,1097,1220,5588728,F,Weekend,32,12,Employed,Restorations,1500-2500,Yes,YES
+1098,1098,1221,5536629,F,Weekend,24,6,Employed,Braces,30000-40000,Yes,NO
+1099,1099,1222,5560357,M,Weekend,27,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1100,1100,1223,5600005,F,Weekend,38,1,Employed,Extractions,1000-2000,Yes,YES
+1101,1101,1224,5601968,F,Weekend,46,11,Employed,Root Canal,6000-10000,Yes,YES
+1102,1102,1225,5642828,M,Weekday,5,10,Unemployed,Pulpectomy,4000-6000,Yes,NO
+1103,1103,1226,5612133,F,Weekday,77,3,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+1104,1104,1227,5611904,F,Weekday,62,2,Unemployed,Restorations,1500-2500,No,YES
+1105,1105,1228,5637614,M,Weekday,3,12,Unemployed,Pulpectomy,4000-6000,No,NO
+1106,1106,1229,5596302,F,Weekday,63,5,Unemployed,Restorations,1500-2500,No,NO
+1107,1107,1230,5598223,M,Weekday,57,6,Employed,Dental Implant,30000-40000,Yes,NO
+1108,1108,1231,5625998,M,Weekend,25,12,Employed,Braces,30000-40000,Yes,YES
+1109,1109,1232,5634120,M,Weekend,41,8,Employed,Scaling,1000-3000,Yes,YES
+1110,1110,1233,5521769,F,Weekday,29,5,Employed,Dental Implant,30000-40000,Yes,NO
+1111,1111,1234,5631259,F,Weekday,38,1,Employed,Extractions,1000-2000,Yes,YES
+1112,1112,1235,5633121,F,Weekday,24,10,Employed,Braces,30000-40000,Yes,NO
+1113,1113,1236,5637824,F,Weekday,29,11,Employed,Braces,30000-40000,Yes,NO
+1114,1114,1237,5583419,M,Weekday,32,5,Employed,Braces,30000-40000,Yes,NO
+1115,1115,1238,5642067,F,Weekday,62,10,Unemployed,Restorations,1500-2500,No,NO
+1116,1116,1239,5511153,M,Weekend,61,2,Unemployed,Restorations,1500-2500,No,YES
+1117,1117,1240,5506672,F,Weekend,11,1,Unemployed,Scaling,1000-3000,No,YES
+1118,1118,1241,5638548,M,Weekend,9,1,Unemployed,Extractions,1000-2000,No,YES
+1119,1119,1242,5629188,M,Weekend,43,12,Employed,Root Canal,6000-10000,Yes,YES
+1120,1120,1243,5493606,F,Weekend,27,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1121,1121,1244,5639376,M,Weekend,55,1,Employed,Dental Implant,30000-40000,Yes,YES
+1122,1122,1245,5551359,M,Weekday,21,7,Unemployed,Braces,30000-40000,No,NO
+1123,1123,1246,5641450,F,Weekday,73,9,Unemployed,Root Canal,6000-10000,No,NO
+1124,1124,1247,5639715,M,Weekend,40,8,Employed,Scaling,1000-3000,Yes,YES
+1125,1125,1248,5528434,M,Weekend,46,5,Employed,Root Canal,6000-10000,Yes,YES
+1126,1126,1249,5563183,M,Weekday,6,5,Unemployed,Restorations,1500-2500,Yes,NO
+1127,1127,1250,5631942,F,Weekend,60,12,Employed,Flap Surgery,25000-35000,Yes,YES
+1128,1128,1251,5640651,M,Weekday,67,1,Unemployed,Dental Implant,30000-40000,No,YES
+1129,1129,1252,5640350,M,Weekend,25,7,Employed,Braces,30000-40000,Yes,NO
+1130,1130,1253,5641357,F,Weekday,67,2,Unemployed,Dental Implant,30000-40000,No,YES
+1131,1131,1254,5377512,M,Weekday,65,8,Unemployed,Dental Implant,30000-40000,No,NO
+1132,1132,1255,5522365,F,Weekday,19,12,Unemployed,Restorations,1500-2500,No,NO
+1133,1133,1256,5641064,M,Weekend,26,1,Employed,Braces,30000-40000,Yes,YES
+1134,1134,1257,5637839,M,Weekend,54,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1135,1135,1258,5633813,F,Weekend,54,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1136,1136,1259,5582292,M,Weekday,10,6,Unemployed,Extractions,1000-2000,No,NO
+1137,1137,1260,5638545,F,Weekday,72,12,Unemployed,Scaling,1000-3000,No,NO
+1138,1138,1261,5561511,F,Weekend,31,7,Employed,Restorations,1500-2500,Yes,NO
+1139,1139,1262,5605581,M,Weekend,29,5,Employed,Braces,30000-40000,Yes,NO
+1140,1140,1263,5389146,F,Weekday,17,3,Unemployed,Extractions,1000-2000,No,YES
+1141,1141,1264,5641773,F,Weekend,25,11,Employed,Braces,30000-40000,Yes,YES
+1142,1142,1265,5498944,F,Weekend,39,4,Employed,Scaling,1000-3000,Yes,YES
+1143,1143,1266,5604075,F,Weekend,25,12,Employed,Braces,30000-40000,Yes,YES
+1144,1144,1267,5629191,M,Weekday,11,4,Unemployed,Scaling,1000-3000,No,YES
+1145,1145,1268,5560893,F,Weekday,15,2,Unemployed,Extractions,1000-2000,No,YES
+1146,1146,1269,5612123,F,Weekday,14,7,Unemployed,Scaling,1000-3000,No,NO
+1147,1147,1270,5604299,F,Weekday,19,10,Unemployed,Restorations,1500-2500,No,NO
+1148,1148,1271,5637983,F,Weekday,62,12,Unemployed,Restorations,1500-2500,No,NO
+1149,1149,1272,5634861,M,Weekend,26,6,Employed,Root Canal,6000-10000,Yes,YES
+1150,1150,1273,5586515,F,Weekend,54,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1151,1151,1274,5595347,M,Weekend,39,12,Employed,Scaling,1000-3000,Yes,YES
+1152,1152,1275,5634068,F,Weekday,66,7,Unemployed,Dental Implant,30000-40000,No,NO
+1153,1153,1276,5561624,F,Weekend,54,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1154,1154,1277,5631486,F,Weekday,76,7,Unemployed,Root Canal,6000-10000,No,NO
+1155,1155,1278,5580520,F,Weekend,38,3,Employed,Extractions,1000-2000,Yes,YES
+1156,1156,1279,5523287,F,Weekend,42,6,Employed,Scaling,1000-3000,Yes,NO
+1157,1157,1280,5561947,M,Weekend,51,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1158,1158,1281,5526114,F,Weekday,15,2,Unemployed,Extractions,1000-2000,No,YES
+1159,1159,1282,5533985,F,Weekday,4,8,Unemployed,Pulpectomy,4000-6000,No,NO
+1160,1160,1283,5606767,M,Weekend,46,6,Employed,Root Canal,6000-10000,Yes,YES
+1161,1161,1284,5631110,F,Weekday,60,11,Employed,Flap Surgery,25000-35000,Yes,NO
+1162,1162,1285,5604188,M,Weekend,48,12,Employed,Dental Implant,30000-40000,Yes,YES
+1163,1163,1286,5638446,M,Weekend,50,10,Employed,Flap Surgery,25000-35000,Yes,YES
+1164,1164,1287,5640072,F,Weekend,35,2,Employed,Extractions,1000-2000,Yes,YES
+1165,1165,1288,5517568,M,Weekend,40,7,Employed,Scaling,1000-3000,Yes,NO
+1166,1166,1289,5418569,M,Weekend,24,1,Employed,Braces,30000-40000,Yes,YES
+1167,1167,1290,5638528,F,Weekend,24,5,Employed,Braces,30000-40000,Yes,NO
+1168,1168,1291,5631069,F,Weekday,5,11,Unemployed,Pulpectomy,4000-6000,No,NO
+1169,1169,1292,5638123,F,Weekday,3,5,Unemployed,Pulpectomy,4000-6000,No,NO
+1170,1170,1293,5546660,F,Weekend,34,10,Employed,Restorations,1500-2500,Yes,YES
+1171,1171,1294,5589040,M,Weekday,5,9,Unemployed,Pulpectomy,4000-6000,No,NO
+1172,1172,1295,5543795,F,Weekend,36,2,Employed,Extractions,1000-2000,Yes,YES
+1173,1173,1296,5603812,F,Weekend,44,3,Employed,Root Canal,6000-10000,Yes,YES
+1174,1174,1297,5607762,F,Weekend,53,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1175,1175,1298,5568957,F,Weekday,9,6,Unemployed,Extractions,1000-2000,No,NO
+1176,1176,1299,5627499,M,Weekday,26,10,Employed,Braces,30000-40000,Yes,NO
+1177,1177,1300,5633872,F,Weekday,39,9,Employed,Scaling,1000-3000,Yes,NO
+1178,1178,1301,5640474,F,Weekday,55,7,Employed,Dental Implant,30000-40000,Yes,NO
+1179,1179,1302,5638745,F,Weekday,27,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1180,1180,1303,5637946,M,Weekday,37,2,Employed,Extractions,1000-2000,Yes,YES
+1181,1181,1304,5575673,M,Weekday,64,11,Unemployed,Restorations,1500-2500,No,NO
+1182,1182,1305,5552915,F,Weekday,75,12,Unemployed,Root Canal,6000-10000,No,NO
+1183,1183,1306,5555284,M,Weekend,39,1,Employed,Scaling,1000-3000,Yes,YES
+1184,1184,1307,5631118,F,Weekday,78,5,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+1185,1185,1308,5630213,M,Weekend,33,2,Employed,Restorations,1500-2500,Yes,YES
+1186,1186,1309,5640554,M,Weekday,13,6,Unemployed,Scaling,1000-3000,No,NO
+1187,1187,1310,5631095,F,Weekend,52,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1188,1188,1311,5563082,F,Weekend,79,1,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+1189,1189,1312,5637657,F,Weekend,35,9,Employed,Extractions,1000-2000,Yes,NO
+1190,1190,1313,5640002,F,Weekend,39,5,Employed,Scaling,1000-3000,Yes,NO
+1191,1191,1314,5640676,F,Weekend,33,12,Employed,Restorations,1500-2500,Yes,YES
+1192,1192,1315,5507592,F,Weekend,22,12,Unemployed,Root Canal,6000-10000,No,NO
+1193,1193,1316,5575637,M,Weekend,14,8,Unemployed,Scaling,1000-3000,Yes,NO
+1194,1194,1317,5638604,F,Weekend,77,4,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+1195,1195,1318,5639500,F,Weekend,66,8,Unemployed,Dental Implant,30000-40000,No,NO
+1196,1196,1319,5624578,M,Weekend,17,1,Unemployed,Extractions,1000-2000,No,YES
+1197,1197,1320,5555241,F,Weekend,32,4,Employed,Restorations,1500-2500,Yes,YES
+1198,1198,1321,5600458,F,Weekday,15,6,Unemployed,Extractions,1000-2000,No,NO
+1199,1199,1322,5633958,F,Weekday,16,5,Unemployed,Extractions,1000-2000,No,NO
+1200,1200,1323,5515837,F,Weekend,35,11,Employed,Extractions,1000-2000,Yes,NO
+1201,1201,1324,5640256,F,Weekday,65,10,Unemployed,Dental Implant,30000-40000,No,NO
+1202,1202,1325,5622696,F,Weekend,33,11,Employed,Extractions,1000-2000,Yes,NO
+1203,1203,1326,5640477,F,Weekend,27,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1204,1204,1327,5629167,M,Weekend,60,6,Employed,Flap Surgery,25000-35000,Yes,NO
+1205,1205,1328,5641191,F,Weekend,38,8,Employed,Extractions,1000-2000,Yes,NO
+1206,1206,1329,5544183,M,Weekend,19,11,Unemployed,Braces,30000-40000,No,NO
+1207,1207,1330,5587796,M,Weekend,56,7,Employed,Dental Implant,30000-40000,Yes,NO
+1208,1208,1331,5641620,M,Weekend,64,9,Unemployed,Restorations,1500-2500,No,NO
+1209,1209,1332,5642472,F,Weekend,67,7,Unemployed,Dental Implant,30000-40000,No,NO
+1210,1210,1333,5642059,F,Weekend,29,2,Employed,Braces,30000-40000,Yes,YES
+1211,1211,1334,5389043,F,Weekend,64,11,Unemployed,Restorations,1500-2500,No,NO
+1212,1212,1335,5641472,F,Weekend,78,4,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+1213,1213,1336,5590282,M,Weekend,14,5,Unemployed,Scaling,1000-3000,No,NO
+1214,1214,1337,5602435,F,Weekend,41,6,Employed,Scaling,1000-3000,Yes,NO
+1215,1215,1338,5634226,F,Weekend,17,4,Unemployed,Extractions,1000-2000,No,YES
+1216,1216,1339,5625982,F,Weekday,12,10,Unemployed,Scaling,1000-3000,No,NO
+1217,1217,1340,5640991,F,Weekday,56,9,Employed,Dental Implant,30000-40000,Yes,NO
+1218,1218,1341,5637479,F,Weekday,22,11,Unemployed,Root Canal,6000-10000,No,NO
+1219,1219,1342,5642525,M,Weekday,58,11,Employed,Flap Surgery,25000-35000,Yes,NO
+1220,1220,1343,5523432,F,Weekday,88,12,Unemployed,Extractions,1000-2000,No,NO
+1221,1221,1344,5637962,F,Weekday,33,11,Employed,Restorations,1500-2500,Yes,NO
+1222,1222,1345,5613288,M,Weekday,18,10,Unemployed,Restorations,1500-2500,No,NO
+1223,1223,1346,5604131,F,Weekday,87,1,Unemployed,Extractions,1000-2000,No,YES
+1224,1224,1347,5596731,M,Weekday,30,10,Employed,Braces,30000-40000,Yes,NO
+1225,1225,1348,5636130,F,Weekday,71,4,Unemployed,Flap Surgery,25000-35000,No,YES
+1226,1226,1349,5640252,F,Weekday,19,2,Unemployed,Restorations,1500-2500,No,YES
+1227,1227,1350,5620553,M,Weekend,34,7,Employed,Restorations,1500-2500,Yes,NO
+1228,1228,1351,5515566,F,Weekend,28,6,Employed,Braces,30000-40000,Yes,NO
+1229,1229,1352,5576924,F,Weekday,21,8,Unemployed,Root Canal,6000-10000,No,NO
+1230,1230,1353,5629014,F,Weekend,40,5,Employed,Scaling,1000-3000,Yes,NO
+1231,1231,1354,5526179,M,Weekend,46,10,Employed,Root Canal,6000-10000,Yes,YES
+1232,1232,1355,5471731,F,Weekday,5,2,Unemployed,Pulpectomy,4000-6000,No,YES
+1233,1233,1356,5496977,F,Weekday,37,10,Employed,Extractions,1000-2000,Yes,NO
+1234,1234,1357,5521738,F,Weekday,68,9,Unemployed,Dental Implant,30000-40000,No,NO
+1235,1235,1358,5640445,F,Weekday,52,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1236,1236,1359,5634154,M,Weekday,35,9,Employed,Extractions,1000-2000,Yes,NO
+1237,1237,1360,5595495,M,Weekday,75,4,Unemployed,Root Canal,6000-10000,No,YES
+1238,1238,1361,5642242,F,Weekday,59,10,Employed,Flap Surgery,25000-35000,Yes,NO
+1239,1239,1362,5502935,F,Weekday,73,5,Unemployed,Root Canal,6000-10000,No,NO
+1240,1240,1363,5640386,F,Weekend,48,9,Employed,Braces,30000-40000,Yes,YES
+1241,1241,1364,5641233,M,Weekend,53,10,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1242,1242,1365,5637874,F,Weekday,22,4,Unemployed,Root Canal,6000-10000,No,YES
+1243,1243,1366,5639907,F,Weekend,52,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1244,1244,1367,5637606,F,Weekday,26,6,Employed,Braces,30000-40000,Yes,NO
+1245,1245,1368,5595476,M,Weekday,59,9,Employed,Flap Surgery,25000-35000,Yes,NO
+1246,1246,1369,5638322,F,Weekday,22,11,Unemployed,Root Canal,6000-10000,No,NO
+1247,1247,1370,5637626,F,Weekend,56,12,Employed,Dental Implant,30000-40000,Yes,YES
+1248,1248,1371,5637602,F,Weekday,78,7,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+1249,1249,1372,5488239,F,Weekday,71,10,Unemployed,Scaling,1000-3000,No,NO
+1250,1250,1373,5510054,M,Weekday,65,11,Unemployed,Dental Implant,30000-40000,No,NO
+1251,1251,1374,5532198,M,Weekend,46,11,Employed,Root Canal,6000-10000,Yes,YES
+1252,1252,1375,5490393,M,Weekday,8,12,Unemployed,Extractions,1000-2000,No,NO
+1253,1253,1376,5629610,M,Weekday,69,6,Unemployed,Flap Surgery,25000-35000,No,NO
+1254,1254,1377,5640039,M,Weekday,63,1,Unemployed,Dental Implant,30000-40000,No,YES
+1255,1255,1378,5534656,M,Weekend,37,12,Employed,Extractions,1000-2000,Yes,NO
+1256,1256,1379,5509530,F,Weekend,35,12,Employed,Extractions,1000-2000,Yes,NO
+1257,1257,1380,5631409,M,Weekend,31,3,Employed,Braces,30000-40000,Yes,YES
+1258,1258,1381,5528298,F,Weekend,25,10,Employed,Braces,30000-40000,Yes,YES
+1259,1259,1382,5627548,M,Weekday,67,11,Unemployed,Dental Implant,30000-40000,No,NO
+1260,1260,1383,5552547,F,Weekend,32,1,Employed,Restorations,1500-2500,Yes,YES
+1261,1261,1384,5577440,F,Weekend,38,2,Employed,Extractions,1000-2000,Yes,YES
+1262,1262,1385,5638571,F,Weekday,35,1,Employed,Extractions,1000-2000,Yes,YES
+1263,1263,1386,5639898,F,Weekday,57,3,Employed,Dental Implant,30000-40000,Yes,YES
+1264,1264,1387,5633839,M,Weekday,18,1,Unemployed,Root Canal,6000-10000,No,YES
+1265,1265,1388,5612157,M,Weekday,25,3,Employed,Braces,30000-40000,Yes,YES
+1266,1266,1389,5639056,F,Weekday,14,9,Unemployed,Scaling,1000-3000,Yes,NO
+1267,1267,1390,5619314,M,Weekday,41,11,Employed,Scaling,1000-3000,Yes,NO
+1268,1268,1391,5641313,M,Weekend,37,1,Employed,Extractions,1000-2000,Yes,YES
+1269,1269,1392,5608967,M,Weekday,16,12,Unemployed,Extractions,1000-2000,No,NO
+1270,1270,1393,5537066,F,Weekday,93,11,Unemployed,Flap Surgery,25000-35000,No,NO
+1271,1271,1394,5338569,F,Weekend,26,11,Employed,Braces,30000-40000,Yes,YES
+1272,1272,1395,5597689,F,Weekend,52,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1273,1273,1396,5639862,F,Weekend,60,1,Employed,Flap Surgery,25000-35000,Yes,YES
+1274,1274,1397,5634235,F,Weekend,35,10,Employed,Extractions,1000-2000,Yes,NO
+1275,1275,1398,5582255,M,Weekend,43,2,Employed,Root Canal,6000-10000,Yes,YES
+1276,1276,1399,5639335,F,Weekday,9,11,Unemployed,Extractions,1000-2000,Yes,NO
+1277,1277,1400,5637951,F,Weekend,43,8,Employed,Root Canal,6000-10000,Yes,YES
+1278,1278,1401,5639307,F,Weekend,46,10,Employed,Root Canal,6000-10000,Yes,YES
+1279,1279,1402,5482823,F,Weekend,33,7,Employed,Restorations,1500-2500,Yes,NO
+1280,1280,1403,5599074,M,Weekend,61,2,Unemployed,Restorations,1500-2500,No,YES
+1281,1281,1404,5626026,F,Weekend,75,11,Unemployed,Root Canal,6000-10000,No,NO
+1282,1282,1405,5628035,F,Weekend,28,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1283,1283,1406,5640351,M,Weekend,44,8,Employed,Root Canal,6000-10000,Yes,YES
+1284,1284,1407,5464601,F,Weekend,38,1,Employed,Extractions,1000-2000,Yes,YES
+1285,1285,1408,5638769,M,Weekend,39,3,Employed,Scaling,1000-3000,Yes,YES
+1286,1286,1409,5545857,M,Weekend,16,11,Unemployed,Extractions,1000-2000,No,NO
+1287,1287,1410,5621388,F,Weekend,27,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1288,1288,1411,5595502,M,Weekend,46,12,Employed,Root Canal,6000-10000,Yes,YES
+1289,1289,1412,5640235,M,Weekday,28,12,Employed,Braces,30000-40000,Yes,NO
+1290,1290,1413,5488633,F,Weekday,28,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+1291,1291,1414,5508634,M,Weekday,41,10,Employed,Scaling,1000-3000,Yes,NO
+1292,1292,1415,5541090,F,Weekday,16,8,Unemployed,Extractions,1000-2000,No,NO
+1293,1293,1416,5634093,F,Weekday,23,4,Unemployed,Root Canal,6000-10000,No,YES
+1294,1294,1417,5641622,F,Weekday,24,9,Employed,Braces,30000-40000,Yes,NO
+1295,1295,1418,5558421,M,Weekday,60,7,Employed,Flap Surgery,25000-35000,Yes,NO
+1296,1296,1419,5592539,M,Weekday,72,10,Unemployed,Scaling,1000-3000,No,NO
+1297,1297,1420,5641712,F,Weekday,51,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1298,1298,1421,5625052,F,Weekday,34,10,Employed,Restorations,1500-2500,Yes,NO
+1299,1299,1422,5640329,M,Weekday,70,4,Unemployed,Scaling,1000-3000,No,YES
+1300,1300,1423,5591213,M,Weekend,39,9,Employed,Scaling,1000-3000,Yes,YES
+1301,1301,1424,5476414,F,Weekend,54,7,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1302,1302,1425,5591336,M,Weekend,30,5,Employed,Dental Implant,30000-40000,Yes,NO
+1303,1303,1426,5637517,M,Weekend,29,7,Employed,Dental Implant,30000-40000,Yes,NO
+1304,1304,1427,5639482,F,Weekday,82,6,Unemployed,Braces,30000-40000,No,NO
+1305,1305,1428,5537579,F,Weekday,13,9,Unemployed,Scaling,1000-3000,No,NO
+1306,1306,1429,5634142,F,Weekday,69,2,Unemployed,Scaling,1000-3000,No,YES
+1307,1307,1430,5470072,M,Weekday,12,12,Unemployed,Scaling,1000-3000,No,NO
+1308,1308,1431,5585967,F,Weekend,32,10,Employed,Restorations,1500-2500,Yes,YES
+1309,1309,1432,5624020,M,Weekday,28,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+1310,1310,1433,5601951,F,Weekend,31,7,Employed,Braces,30000-40000,Yes,NO
+1311,1311,1434,5631239,F,Weekday,23,6,Unemployed,Root Canal,6000-10000,No,NO
+1312,1312,1435,5531375,F,Weekday,64,8,Unemployed,Flap Surgery,25000-35000,No,NO
+1313,1313,1436,5552928,F,Weekday,15,7,Unemployed,Extractions,1000-2000,No,NO
+1314,1314,1437,5636977,M,Weekday,20,7,Unemployed,Braces,30000-40000,No,NO
+1315,1315,1438,5493693,F,Weekday,80,2,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+1316,1316,1439,5637984,F,Weekend,25,2,Employed,Braces,30000-40000,Yes,YES
+1317,1317,1440,5587737,F,Weekday,69,1,Unemployed,Scaling,1000-3000,No,YES
+1318,1318,1441,5551044,F,Weekend,32,12,Employed,Restorations,1500-2500,Yes,YES
+1319,1319,1442,5637150,F,Weekend,46,4,Employed,Root Canal,6000-10000,Yes,YES
+1320,1320,1443,5631249,F,Weekend,66,7,Unemployed,Dental Implant,30000-40000,No,NO
+1321,1321,1444,5545627,F,Weekend,20,1,Unemployed,Restorations,1500-2500,No,YES
+1322,1322,1445,5639315,M,Weekend,71,6,Unemployed,Scaling,1000-3000,No,NO
+1323,1323,1446,5639947,M,Weekend,13,9,Unemployed,Scaling,1000-3000,No,NO
+1324,1324,1447,5560375,F,Weekend,12,10,Unemployed,Scaling,1000-3000,No,NO
+1325,1325,1448,5638759,F,Weekend,52,6,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1326,1326,1449,5638565,F,Weekend,58,5,Employed,Flap Surgery,25000-35000,Yes,NO
+1327,1327,1450,5577204,M,Weekend,20,12,Unemployed,Restorations,1500-2500,No,NO
+1328,1328,1451,5640436,M,Weekend,61,4,Unemployed,Restorations,1500-2500,No,YES
+1329,1329,1452,5523409,F,Weekend,80,6,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+1330,1330,1453,5431238,M,Weekend,21,8,Unemployed,Root Canal,6000-10000,No,NO
+1331,1331,1454,5600298,F,Weekend,34,3,Employed,Restorations,1500-2500,Yes,YES
+1332,1332,1455,5523292,F,Weekday,18,12,Unemployed,Restorations,1500-2500,No,NO
+1333,1333,1456,5526118,F,Weekday,53,11,Employed,Restorations,1500-2500,Yes,NO
+1334,1334,1457,5466013,F,Weekday,73,7,Unemployed,Root Canal,6000-10000,No,NO
+1335,1335,1458,5638185,M,Weekday,67,6,Unemployed,Dental Implant,30000-40000,No,NO
+1336,1336,1459,5641599,F,Weekday,68,2,Unemployed,Dental Implant,30000-40000,No,YES
+1337,1337,1460,5637702,M,Weekend,56,9,Employed,Dental Implant,30000-40000,Yes,YES
+1338,1338,1461,5529852,F,Weekday,13,11,Unemployed,Scaling,1000-3000,Yes,NO
+1339,1339,1462,5522438,M,Weekday,28,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+1340,1340,1463,5552936,M,Weekday,69,10,Unemployed,Scaling,1000-3000,No,NO
+1341,1341,1464,5634024,F,Weekday,8,10,Unemployed,Scaling,1000-3000,No,NO
+1342,1342,1465,5471716,F,Weekend,27,5,Employed,Braces,30000-40000,Yes,NO
+1343,1343,1466,5631146,F,Weekday,10,10,Unemployed,Extractions,1000-2000,No,NO
+1344,1344,1467,5561622,F,Weekday,19,5,Unemployed,Restorations,1500-2500,Yes,NO
+1345,1345,1468,5638517,M,Weekend,29,7,Employed,Dental Implant,30000-40000,Yes,NO
+1346,1346,1469,5595649,M,Weekend,39,2,Employed,Scaling,1000-3000,Yes,YES
+1347,1347,1470,5618142,F,Weekend,32,5,Employed,Braces,30000-40000,Yes,NO
+1348,1348,1471,5512375,F,Weekend,40,1,Employed,Scaling,1000-3000,Yes,YES
+1349,1349,1472,5567996,F,Weekday,16,2,Unemployed,Extractions,1000-2000,No,YES
+1350,1350,1473,5639379,F,Weekday,21,5,Unemployed,Root Canal,6000-10000,No,NO
+1351,1351,1474,5564679,M,Weekday,64,2,Unemployed,Restorations,1500-2500,No,YES
+1352,1352,1475,5608828,F,Weekend,34,11,Employed,Restorations,1500-2500,Yes,YES
+1353,1353,1476,5636646,M,Weekday,56,8,Employed,Dental Implant,30000-40000,Yes,NO
+1354,1354,1477,5628286,F,Weekend,29,9,Employed,Braces,30000-40000,Yes,YES
+1355,1355,1478,5594633,M,Weekday,24,5,Employed,Braces,30000-40000,Yes,NO
+1356,1356,1479,5452793,F,Weekday,65,9,Unemployed,Dental Implant,30000-40000,No,NO
+1357,1357,1480,5640363,M,Weekday,18,5,Unemployed,Restorations,1500-2500,Yes,NO
+1358,1358,1481,5544443,M,Weekday,28,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+1359,1359,1482,5551100,F,Weekend,43,2,Employed,Root Canal,6000-10000,Yes,YES
+1360,1360,1483,5621004,M,Weekday,56,3,Employed,Dental Implant,30000-40000,Yes,YES
+1361,1361,1484,5513929,F,Weekend,43,12,Employed,Root Canal,6000-10000,Yes,YES
+1362,1362,1485,5640100,F,Weekday,28,7,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+1363,1363,1486,5544908,F,Weekday,23,5,Unemployed,Root Canal,6000-10000,No,NO
+1364,1364,1487,5637001,F,Weekend,46,3,Employed,Root Canal,6000-10000,Yes,YES
+1365,1365,1488,5598619,F,Weekday,76,1,Unemployed,Root Canal,6000-10000,No,YES
+1366,1366,1489,5480911,M,Weekend,28,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1367,1367,1490,5634160,F,Weekday,25,10,Employed,Braces,30000-40000,Yes,NO
+1368,1368,1491,5525558,M,Weekend,51,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1369,1369,1492,5520151,F,Weekday,69,3,Unemployed,Scaling,1000-3000,No,YES
+1370,1370,1493,5631474,F,Weekend,20,5,Unemployed,Braces,30000-40000,No,NO
+1371,1371,1494,5640371,F,Weekday,56,7,Employed,Dental Implant,30000-40000,Yes,NO
+1372,1372,1495,5630455,F,Weekend,28,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1373,1373,1496,5641887,F,Weekend,53,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1374,1374,1497,5602528,M,Weekday,27,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1375,1375,1498,5640898,F,Weekday,21,11,Unemployed,Root Canal,6000-10000,No,NO
+1376,1376,1499,5482740,F,Weekday,74,8,Unemployed,Root Canal,6000-10000,No,NO
+1377,1377,1500,5631978,F,Weekday,22,7,Unemployed,Root Canal,6000-10000,No,NO
+1378,1378,1501,5596174,M,Weekend,10,6,Unemployed,Extractions,1000-2000,No,NO
+1379,1379,1502,5385869,F,Weekend,57,6,Employed,Dental Implant,30000-40000,Yes,NO
+1380,1380,1503,5217179,F,Weekend,23,8,Unemployed,Root Canal,6000-10000,No,NO
+1381,1381,1504,5640307,F,Weekend,54,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1382,1382,1505,5638925,F,Weekend,64,8,Unemployed,Restorations,1500-2500,No,NO
+1383,1383,1506,5588628,F,Weekend,54,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1384,1384,1507,5618135,M,Weekend,13,11,Unemployed,Scaling,1000-3000,No,NO
+1385,1385,1508,5636074,F,Weekend,23,1,Unemployed,Root Canal,6000-10000,No,YES
+1386,1386,1509,5641185,F,Weekend,40,12,Employed,Scaling,1000-3000,Yes,YES
+1387,1387,1510,5628342,F,Weekend,55,6,Unemployed,Dental Implant,30000-40000,No,NO
+1388,1388,1511,5640484,M,Weekend,58,5,Employed,Flap Surgery,25000-35000,Yes,NO
+1389,1389,1512,5561035,F,Weekend,38,2,Employed,Extractions,1000-2000,Yes,YES
+1390,1390,1513,5633186,M,Weekend,53,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1391,1391,1514,5641780,F,Weekday,16,3,Unemployed,Extractions,1000-2000,No,YES
+1392,1392,1515,5641003,F,Weekend,55,9,Employed,Dental Implant,30000-40000,Yes,YES
+1393,1393,1516,5642186,M,Weekend,59,6,Employed,Flap Surgery,25000-35000,Yes,NO
+1394,1394,1517,5541703,M,Weekend,40,12,Employed,Scaling,1000-3000,Yes,YES
+1395,1395,1518,5590639,M,Weekday,75,4,Unemployed,Root Canal,6000-10000,No,YES
+1396,1396,1519,5377063,F,Weekend,51,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1397,1397,1520,5593330,M,Weekday,65,1,Unemployed,Dental Implant,30000-40000,No,YES
+1398,1398,1521,5562260,F,Weekday,27,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1399,1399,1522,5641358,M,Weekend,37,5,Employed,Extractions,1000-2000,Yes,NO
+1400,1400,1523,5575608,F,Weekend,23,1,Unemployed,Root Canal,6000-10000,No,YES
+1401,1401,1524,5638370,F,Weekend,20,4,Unemployed,Braces,30000-40000,No,YES
+1402,1402,1525,5522735,F,Weekend,41,9,Employed,Scaling,1000-3000,Yes,YES
+1403,1403,1526,5528350,F,Weekend,37,4,Employed,Extractions,1000-2000,Yes,YES
+1404,1404,1527,5634187,M,Weekend,31,4,Employed,Restorations,1500-2500,Yes,YES
+1405,1405,1528,5641434,M,Weekend,21,9,Unemployed,Root Canal,6000-10000,No,NO
+1406,1406,1529,5642904,F,Weekend,26,3,Employed,Braces,30000-40000,Yes,YES
+1407,1407,1530,5589169,M,Weekend,67,1,Unemployed,Dental Implant,30000-40000,Yes,YES
+1408,1408,1531,5588114,F,Weekend,63,7,Unemployed,Restorations,1500-2500,Yes,NO
+1409,1409,1532,5640026,F,Weekend,64,4,Unemployed,Restorations,1500-2500,No,YES
+1410,1410,1533,5642524,F,Weekday,57,4,Employed,Dental Implant,30000-40000,Yes,YES
+1411,1411,1534,5599675,F,Weekday,68,5,Unemployed,Dental Implant,30000-40000,No,NO
+1412,1412,1535,5636885,M,Weekday,66,2,Unemployed,Dental Implant,30000-40000,No,YES
+1413,1413,1536,5640084,F,Weekend,51,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1414,1414,1537,5447464,F,Weekend,38,3,Employed,Extractions,1000-2000,Yes,YES
+1415,1415,1538,5533283,F,Weekend,56,8,Employed,Dental Implant,30000-40000,Yes,YES
+1416,1416,1539,5533700,M,Weekday,19,11,Unemployed,Restorations,1500-2500,No,NO
+1417,1417,1540,5634033,F,Weekday,79,4,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+1418,1418,1541,5505924,F,Weekend,35,1,Employed,Extractions,1000-2000,Yes,YES
+1419,1419,1542,5639908,F,Weekend,41,11,Employed,Scaling,1000-3000,Yes,YES
+1420,1420,1543,5617246,F,Weekday,75,5,Unemployed,Root Canal,6000-10000,No,NO
+1421,1421,1544,5470106,F,Weekend,29,5,Employed,Dental Implant,30000-40000,Yes,NO
+1422,1422,1545,5618127,F,Weekend,29,10,Employed,Dental Implant,30000-40000,Yes,YES
+1423,1423,1546,5637975,F,Weekday,19,8,Unemployed,Restorations,1500-2500,No,NO
+1424,1424,1547,5524189,M,Weekday,62,2,Unemployed,Restorations,1500-2500,No,YES
+1425,1425,1548,5560417,F,Weekday,22,6,Unemployed,Root Canal,6000-10000,No,NO
+1426,1426,1549,5632495,F,Weekday,29,9,Employed,Dental Implant,30000-40000,Yes,NO
+1427,1427,1550,5621036,F,Weekend,54,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1428,1428,1551,5582483,M,Weekend,39,5,Employed,Scaling,1000-3000,Yes,NO
+1429,1429,1552,5595806,F,Weekend,34,4,Employed,Restorations,1500-2500,Yes,YES
+1430,1430,1553,5574534,F,Weekday,15,8,Employed,Extractions,1000-2000,No,NO
+1431,1431,1554,5639981,M,Weekend,32,3,Employed,Restorations,1500-2500,Yes,YES
+1432,1432,1555,5511875,M,Weekend,51,6,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1433,1433,1556,5641339,M,Weekend,55,10,Employed,Dental Implant,30000-40000,Yes,YES
+1434,1434,1557,5620298,M,Weekday,35,12,Employed,Extractions,1000-2000,Yes,NO
+1435,1435,1558,5631114,F,Weekend,59,4,Employed,Flap Surgery,25000-35000,Yes,YES
+1436,1436,1559,5555110,M,Holiday,39,2,Employed,Scaling,1000-3000,Yes,YES
+1437,1437,1560,5620488,F,Holiday,12,12,Unemployed,Scaling,1000-3000,No,NO
+1438,1438,1561,5641273,M,Holiday,63,4,Unemployed,Restorations,1500-2500,No,YES
+1439,1439,1562,5484437,F,Holiday,20,11,Unemployed,Restorations,1500-2500,No,NO
+1440,1440,1563,5637700,F,Holiday,57,5,Employed,Dental Implant,30000-40000,Yes,NO
+1441,1441,1564,5611754,F,Weekend,33,6,Employed,Restorations,1500-2500,Yes,NO
+1442,1442,1565,5612155,M,Holiday,27,3,Employed,Braces,30000-40000,Yes,YES
+1443,1443,1566,5534318,F,Holiday,22,9,Unemployed,Braces,30000-40000,No,NO
+1444,1444,1567,5525503,F,Weekend,32,12,Employed,Dental Implant,30000-40000,Yes,YES
+1445,1445,1568,5641990,F,Weekday,20,4,Unemployed,Braces,30000-40000,No,YES
+1446,1446,1569,5472950,F,Weekend,45,1,Employed,Root Canal,6000-10000,Yes,YES
+1447,1447,1570,5496974,M,Weekend,32,11,Employed,Restorations,1500-2500,Yes,YES
+1448,1448,1571,5539421,F,Weekday,16,6,Unemployed,Extractions,1000-2000,No,NO
+1449,1449,1572,5641067,M,Weekend,45,12,Employed,Root Canal,6000-10000,Yes,YES
+1450,1450,1573,5639956,F,Weekend,22,1,Unemployed,Braces,30000-40000,No,YES
+1451,1451,1574,5558031,M,Weekend,52,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1452,1452,1575,5479944,F,Weekend,30,12,Employed,Dental Implant,30000-40000,Yes,YES
+1453,1453,1576,5236380,M,Weekday,27,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1454,1454,1577,5640706,M,Weekend,57,12,Employed,Dental Implant,30000-40000,Yes,YES
+1455,1455,1578,5517077,F,Weekday,75,5,Unemployed,Root Canal,6000-10000,No,NO
+1456,1456,1579,5640249,F,Weekday,60,5,Employed,Flap Surgery,25000-35000,Yes,NO
+1457,1457,1580,5626007,M,Weekday,17,12,Unemployed,Extractions,1000-2000,No,NO
+1458,1458,1581,5628345,F,Weekend,51,10,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1459,1459,1582,5498802,F,Weekend,25,9,Employed,Braces,30000-40000,Yes,YES
+1460,1460,1583,5639833,M,Weekday,14,3,Unemployed,Scaling,1000-3000,No,YES
+1461,1461,1584,5498530,F,Weekday,77,11,Unemployed,Fixed Prosthetic Denture,5000-15000,No,NO
+1462,1462,1585,5640426,F,Weekday,64,8,Unemployed,Flap Surgery,25000-35000,No,NO
+1463,1463,1586,5638476,F,Weekend,32,4,Employed,Braces,30000-40000,Yes,YES
+1464,1464,1587,5525890,F,Weekend,51,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1465,1465,1588,5641282,F,Weekend,26,1,Employed,Braces,30000-40000,Yes,YES
+1466,1466,1589,5618132,F,Weekend,77,10,Unemployed,Fixed Prosthetic Denture,5000-15000,No,NO
+1467,1467,1590,5641838,F,Weekend,10,7,Unemployed,Extractions,1000-2000,No,NO
+1468,1468,1591,5592571,F,Weekend,72,9,Unemployed,Flap Surgery,25000-35000,No,NO
+1469,1469,1592,5593038,F,Weekend,39,9,Employed,Scaling,1000-3000,Yes,YES
+1470,1470,1593,5590950,M,Weekday,21,3,Unemployed,Root Canal,6000-10000,No,YES
+1471,1471,1594,5521644,F,Weekday,73,6,Unemployed,Root Canal,6000-10000,No,NO
+1472,1472,1595,5638733,F,Weekday,85,2,Unemployed,Extractions,1000-2000,No,YES
+1473,1473,1596,5627582,F,Weekday,78,1,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+1474,1474,1597,5639864,F,Weekend,51,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1475,1475,1598,5637953,M,Weekday,23,5,Unemployed,Root Canal,6000-10000,No,NO
+1476,1476,1599,5630430,M,Weekday,61,11,Unemployed,Restorations,1500-2500,No,NO
+1477,1477,1600,5632571,M,Weekend,39,4,Employed,Scaling,1000-3000,Yes,YES
+1478,1478,1601,5642389,F,Weekday,18,12,Unemployed,Restorations,1500-2500,No,NO
+1479,1479,1602,5550451,M,Weekend,35,2,Employed,Extractions,1000-2000,Yes,YES
+1480,1480,1603,5616139,M,Weekday,56,12,Employed,Dental Implant,30000-40000,Yes,NO
+1481,1481,1604,5597751,F,Weekend,30,11,Employed,Dental Implant,30000-40000,Yes,YES
+1482,1482,1605,5638273,M,Weekend,35,4,Employed,Extractions,1000-2000,Yes,YES
+1483,1483,1606,5613148,M,Weekday,64,2,Unemployed,Restorations,1500-2500,No,YES
+1484,1484,1607,5587875,M,Weekday,14,7,Unemployed,Scaling,1000-3000,No,NO
+1485,1485,1608,5587252,F,Weekday,24,1,Employed,Braces,30000-40000,Yes,YES
+1486,1486,1609,5632739,F,Weekend,14,2,Unemployed,Scaling,1000-3000,No,YES
+1487,1487,1610,5494047,M,Weekend,67,8,Unemployed,Dental Implant,30000-40000,No,NO
+1488,1488,1611,5638729,F,Weekend,42,10,Employed,Scaling,1000-3000,Yes,YES
+1489,1489,1612,5479047,F,Weekend,31,5,Employed,Restorations,1500-2500,Yes,NO
+1490,1490,1613,5640928,F,Weekend,37,10,Employed,Extractions,1000-2000,Yes,NO
+1491,1491,1614,5587970,M,Weekend,65,9,Unemployed,Dental Implant,30000-40000,No,NO
+1492,1492,1615,5614045,F,Weekend,35,4,Employed,Extractions,1000-2000,Yes,YES
+1493,1493,1616,5592280,F,Weekend,66,10,Unemployed,Dental Implant,30000-40000,No,NO
+1494,1494,1617,5538540,M,Weekend,28,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1495,1495,1618,5549514,M,Weekend,24,11,Employed,Braces,30000-40000,Yes,YES
+1496,1496,1619,5550164,M,Weekend,28,6,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1497,1497,1620,5639404,F,Weekend,24,7,Employed,Braces,30000-40000,Yes,NO
+1498,1498,1621,5422580,F,Weekend,27,12,Employed,Braces,30000-40000,Yes,YES
+1499,1499,1622,5638485,F,Weekend,29,10,Employed,Dental Implant,30000-40000,Yes,YES
+1500,1500,1623,5576760,F,Weekend,31,9,Employed,Restorations,1500-2500,Yes,YES
+1501,1501,1624,5598606,F,Weekend,55,6,Employed,Dental Implant,30000-40000,Yes,NO
+1502,1502,1625,5538532,M,Weekend,41,9,Employed,Scaling,1000-3000,Yes,YES
+1503,1503,1626,5530225,M,Weekday,23,9,Unemployed,Root Canal,6000-10000,No,NO
+1504,1504,1627,5531843,F,Weekend,32,2,Employed,Dental Implant,30000-40000,Yes,YES
+1505,1505,1628,5622841,F,Weekend,39,11,Employed,Scaling,1000-3000,Yes,YES
+1506,1506,1629,5572081,F,Weekend,46,1,Employed,Root Canal,6000-10000,Yes,YES
+1507,1507,1630,5546448,F,Weekend,30,10,Employed,Braces,30000-40000,Yes,YES
+1508,1508,1631,5640067,F,Weekend,28,12,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1509,1509,1632,5597754,F,Weekend,33,11,Employed,Restorations,1500-2500,Yes,YES
+1510,1510,1633,5629123,F,Weekend,51,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1511,1511,1634,5617194,F,Weekend,58,3,Employed,Flap Surgery,25000-35000,Yes,YES
+1512,1512,1635,5638337,F,Weekend,27,3,Employed,Braces,30000-40000,Yes,YES
+1513,1513,1636,5615000,M,Weekend,32,6,Employed,Restorations,1500-2500,Yes,NO
+1514,1514,1637,5599180,F,Weekend,59,2,Employed,Flap Surgery,25000-35000,Yes,YES
+1515,1515,1638,5571831,F,Weekday,13,7,Unemployed,Scaling,1000-3000,No,NO
+1516,1516,1639,5537508,M,Weekday,66,3,Unemployed,Dental Implant,30000-40000,No,YES
+1517,1517,1640,5521216,F,Weekday,18,1,Unemployed,Restorations,1500-2500,No,YES
+1518,1518,1641,5536865,F,Weekday,59,5,Employed,Flap Surgery,25000-35000,Yes,NO
+1519,1519,1642,5504830,F,Weekend,32,5,Employed,Restorations,1500-2500,Yes,NO
+1520,1520,1643,5560758,F,Weekend,54,6,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1521,1521,1644,5626971,F,Weekend,29,10,Employed,Dental Implant,30000-40000,Yes,YES
+1522,1522,1645,5479018,F,Weekend,30,7,Employed,Dental Implant,30000-40000,Yes,NO
+1523,1523,1646,5631656,M,Weekend,53,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1524,1524,1647,5546382,F,Weekday,65,1,Unemployed,Dental Implant,30000-40000,No,YES
+1525,1525,1648,5637807,F,Weekend,46,12,Employed,Root Canal,6000-10000,Yes,YES
+1526,1526,1649,5574391,F,Weekend,58,10,Employed,Flap Surgery,25000-35000,Yes,YES
+1527,1527,1650,5555577,F,Weekend,52,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1528,1528,1651,5535795,M,Weekday,23,1,Unemployed,Root Canal,6000-10000,No,YES
+1529,1529,1652,5639815,M,Weekend,43,3,Employed,Root Canal,6000-10000,Yes,YES
+1530,1530,1653,5361416,F,Weekend,51,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1531,1531,1654,5639014,F,Weekend,30,3,Employed,Dental Implant,30000-40000,Yes,YES
+1532,1532,1655,5637727,F,Weekend,59,12,Employed,Flap Surgery,25000-35000,Yes,YES
+1533,1533,1656,5544344,F,Weekday,17,4,Unemployed,Extractions,1000-2000,No,YES
+1534,1534,1657,5631194,M,Weekday,29,11,Employed,Dental Implant,30000-40000,Yes,NO
+1535,1535,1658,5639474,F,Weekend,28,6,Employed,Dental Implant,30000-40000,Yes,NO
+1536,1536,1659,5597628,M,Weekday,67,11,Unemployed,Dental Implant,30000-40000,No,NO
+1537,1537,1660,5494577,F,Weekday,18,3,Unemployed,Restorations,1500-2500,No,YES
+1538,1538,1661,5622660,F,Weekend,46,4,Employed,Root Canal,6000-10000,Yes,YES
+1539,1539,1662,5539858,F,Weekend,53,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1540,1540,1663,5623000,M,Weekday,14,2,Unemployed,Scaling,1000-3000,No,YES
+1541,1541,1664,5583536,F,Weekend,33,8,Employed,Restorations,1500-2500,Yes,YES
+1542,1542,1665,5642700,F,Weekend,53,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1543,1543,1666,5525572,F,Weekend,37,3,Employed,Extractions,1000-2000,Yes,YES
+1544,1544,1667,5630472,M,Weekend,26,9,Employed,Braces,30000-40000,Yes,YES
+1545,1545,1668,5560742,M,Weekend,15,3,Unemployed,Extractions,1000-2000,No,YES
+1546,1546,1669,5619076,F,Weekend,23,11,Unemployed,Root Canal,6000-10000,No,NO
+1547,1547,1670,5587720,F,Weekend,34,1,Employed,Restorations,1500-2500,Yes,YES
+1548,1548,1671,5591488,F,Weekend,14,9,Unemployed,Scaling,1000-3000,No,NO
+1549,1549,1672,5575011,F,Weekend,59,9,Employed,Flap Surgery,25000-35000,Yes,YES
+1550,1550,1673,5631096,F,Weekend,32,9,Employed,Restorations,1500-2500,Yes,YES
+1551,1551,1674,5637883,M,Weekend,74,6,Unemployed,Root Canal,6000-10000,No,NO
+1552,1552,1675,5560825,M,Weekend,69,5,Unemployed,Scaling,1000-3000,No,NO
+1553,1553,1676,5628618,M,Weekend,37,12,Employed,Extractions,1000-2000,Yes,NO
+1554,1554,1677,5331088,M,Weekend,35,3,Employed,Extractions,1000-2000,Yes,YES
+1555,1555,1678,5638055,F,Weekend,17,5,Unemployed,Extractions,1000-2000,No,NO
+1556,1556,1679,5571892,F,Weekend,20,12,Unemployed,Restorations,1500-2500,No,NO
+1557,1557,1680,5631428,M,Weekend,15,1,Unemployed,Extractions,1000-2000,No,YES
+1558,1558,1681,5638082,F,Weekend,38,3,Employed,Extractions,1000-2000,Yes,YES
+1559,1559,1682,5522193,F,Weekend,37,12,Employed,Extractions,1000-2000,Yes,NO
+1560,1560,1683,5630438,M,Weekday,39,9,Employed,Scaling,1000-3000,Yes,NO
+1561,1561,1684,5638010,F,Weekend,58,8,Employed,Flap Surgery,25000-35000,Yes,YES
+1562,1562,1685,5559082,F,Weekday,37,5,Employed,Extractions,1000-2000,Yes,NO
+1563,1563,1686,5494413,F,Weekday,25,3,Employed,Braces,30000-40000,Yes,YES
+1564,1564,1687,5601729,F,Weekend,36,1,Employed,Extractions,1000-2000,Yes,YES
+1565,1565,1688,5638074,F,Weekend,30,12,Employed,Dental Implant,30000-40000,Yes,YES
+1566,1566,1689,5638530,F,Weekend,42,5,Employed,Scaling,1000-3000,Yes,NO
+1567,1567,1690,5639828,F,Weekend,42,8,Employed,Scaling,1000-3000,Yes,YES
+1568,1568,1691,5640427,F,Weekend,51,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1569,1569,1692,5638166,M,Holiday,28,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1570,1570,1693,5522643,F,Weekend,32,3,Employed,Restorations,1500-2500,Yes,YES
+1571,1571,1694,5617440,M,Holiday,11,8,Unemployed,Scaling,1000-3000,No,NO
+1572,1572,1695,5639206,F,Weekend,29,1,Employed,Dental Implant,30000-40000,Yes,YES
+1573,1573,1696,5640368,F,Weekend,28,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1574,1574,1697,5642400,F,Weekend,29,5,Employed,Dental Implant,30000-40000,Yes,NO
+1575,1575,1698,5595465,M,Weekend,37,2,Employed,Extractions,1000-2000,Yes,YES
+1576,1576,1699,5595748,F,Weekend,53,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1577,1577,1700,5527714,F,Holiday,30,12,Employed,Braces,30000-40000,Yes,YES
+1578,1578,1701,5562309,F,Weekend,53,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1579,1579,1702,5590629,M,Holiday,39,12,Employed,Scaling,1000-3000,Yes,YES
+1580,1580,1703,5578196,F,Weekend,25,12,Employed,Braces,30000-40000,Yes,YES
+1581,1581,1704,5637749,F,Weekend,37,3,Employed,Extractions,1000-2000,Yes,YES
+1582,1582,1705,5595635,M,Weekday,21,6,Unemployed,Root Canal,6000-10000,No,NO
+1583,1583,1706,5638139,F,Weekend,40,10,Employed,Scaling,1000-3000,Yes,YES
+1584,1584,1707,5618147,M,Weekday,20,5,Unemployed,Restorations,1500-2500,No,NO
+1585,1585,1708,5637822,F,Weekday,15,2,Unemployed,Extractions,1000-2000,No,YES
+1586,1586,1709,5550650,F,Weekend,37,4,Employed,Extractions,1000-2000,Yes,YES
+1587,1587,1710,5638919,M,Weekend,31,9,Employed,Restorations,1500-2500,Yes,YES
+1588,1588,1711,5640417,M,Weekday,29,1,Employed,Dental Implant,30000-40000,Yes,YES
+1589,1589,1712,5633842,F,Weekend,30,2,Employed,Dental Implant,30000-40000,Yes,YES
+1590,1590,1713,5639029,M,Weekday,19,4,Unemployed,Restorations,1500-2500,No,YES
+1591,1591,1714,5631088,F,Weekend,38,1,Employed,Extractions,1000-2000,Yes,YES
+1592,1592,1715,5521688,M,Weekday,62,8,Unemployed,Dental Implant,30000-40000,No,NO
+1593,1593,1716,5628739,F,Weekday,40,6,Employed,Scaling,1000-3000,Yes,NO
+1594,1594,1717,5623706,F,Weekday,51,12,Employed,Fixed Prosthetic Denture,5000-15000,Yes,NO
+1595,1595,1718,5637838,F,Weekend,52,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1596,1596,1719,5641166,F,Weekend,30,9,Employed,Dental Implant,30000-40000,Yes,YES
+1597,1597,1720,5589857,F,Weekend,29,7,Employed,Braces,30000-40000,Yes,NO
+1598,1598,1721,5640915,F,Weekend,59,3,Employed,Flap Surgery,25000-35000,Yes,YES
+1599,1599,1722,5631423,M,Weekday,12,1,Unemployed,Scaling,1000-3000,No,YES
+1600,1600,1723,5615304,F,Weekday,29,2,Employed,Dental Implant,30000-40000,Yes,YES
+1601,1601,1724,5626096,M,Weekday,17,6,Unemployed,Extractions,1000-2000,No,NO
+1602,1602,1725,5471059,F,Weekend,35,1,Employed,Extractions,1000-2000,Yes,YES
+1603,1603,1726,5608932,F,Weekday,23,7,Unemployed,Root Canal,6000-10000,No,NO
+1604,1604,1727,5478321,M,Weekday,34,4,Employed,Restorations,1500-2500,Yes,YES
+1605,1605,1728,5636607,M,Weekday,16,4,Unemployed,Extractions,1000-2000,No,YES
+1606,1606,1729,5560124,F,Weekday,23,6,Unemployed,Root Canal,6000-10000,No,NO
+1607,1607,1730,5642656,F,Weekday,13,5,Unemployed,Scaling,1000-3000,No,NO
+1608,1608,1731,5565770,F,Weekday,16,7,Unemployed,Extractions,1000-2000,No,NO
+1609,1609,1732,5547105,F,Weekend,41,10,Employed,Scaling,1000-3000,Yes,YES
+1610,1610,1733,5641043,F,Weekend,23,3,Unemployed,Root Canal,6000-10000,Yes,YES
+1611,1611,1734,5621024,F,Weekday,13,11,Unemployed,Scaling,1000-3000,No,NO
+1612,1612,1735,5631112,F,Weekend,52,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1613,1613,1736,5642697,F,Weekend,57,7,Employed,Dental Implant,30000-40000,Yes,NO
+1614,1614,1737,5566070,M,Weekday,26,4,Employed,Braces,30000-40000,Yes,YES
+1615,1615,1738,5510382,M,Weekday,15,5,Unemployed,Extractions,1000-2000,Yes,NO
+1616,1616,1739,5611825,F,Weekend,45,1,Employed,Root Canal,6000-10000,Yes,YES
+1617,1617,1740,5625705,M,Weekend,54,5,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1618,1618,1741,5637138,F,Weekend,57,2,Employed,Dental Implant,30000-40000,Yes,YES
+1619,1619,1742,5641322,F,Weekend,17,4,Unemployed,Extractions,1000-2000,No,YES
+1620,1620,1743,5629174,F,Weekend,51,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1621,1621,1744,5599765,M,Weekend,26,2,Employed,Braces,30000-40000,Yes,YES
+1622,1622,1745,5642250,M,Weekend,29,1,Employed,Dental Implant,30000-40000,Yes,YES
+1623,1623,1746,5598374,F,Weekend,17,7,Unemployed,Extractions,1000-2000,No,NO
+1624,1624,1747,5637998,F,Weekend,10,5,Unemployed,Extractions,1000-2000,No,NO
+1625,1625,1748,5633163,M,Weekend,45,10,Employed,Root Canal,6000-10000,Yes,YES
+1626,1626,1749,5542250,M,Weekday,18,11,Unemployed,Restorations,1500-2500,No,NO
+1627,1627,1750,5641959,F,Weekend,43,7,Employed,Root Canal,6000-10000,Yes,YES
+1628,1628,1751,5634718,F,Weekday,62,8,Unemployed,Restorations,1500-2500,No,NO
+1629,1629,1752,5477604,F,Weekend,53,2,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1630,1630,1753,5634057,M,Weekend,66,1,Unemployed,Dental Implant,30000-40000,No,YES
+1631,1631,1754,5642110,F,Weekend,45,4,Employed,Root Canal,6000-10000,Yes,YES
+1632,1632,1755,5564534,F,Weekend,73,10,Unemployed,Root Canal,6000-10000,No,NO
+1633,1633,1756,5641407,F,Weekend,76,2,Unemployed,Root Canal,6000-10000,No,YES
+1634,1634,1757,5609925,F,Weekend,37,8,Employed,Extractions,1000-2000,Yes,NO
+1635,1635,1758,5634169,F,Weekend,11,11,Unemployed,Scaling,1000-3000,No,NO
+1636,1636,1759,5618138,F,Weekend,46,10,Employed,Root Canal,6000-10000,Yes,YES
+1637,1637,1760,5567300,F,Weekend,18,9,Unemployed,Restorations,1500-2500,No,NO
+1638,1638,1761,5628720,F,Weekend,51,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1639,1639,1762,5379192,M,Weekend,13,4,Unemployed,Scaling,1000-3000,Yes,YES
+1640,1640,1763,5563549,F,Weekend,15,2,Unemployed,Extractions,1000-2000,No,YES
+1641,1641,1764,5531353,F,Weekend,35,3,Employed,Extractions,1000-2000,Yes,YES
+1642,1642,1765,5618024,M,Weekend,57,1,Employed,Dental Implant,30000-40000,Yes,YES
+1643,1643,1766,5618141,F,Weekend,59,5,Employed,Flap Surgery,25000-35000,Yes,NO
+1644,1644,1767,5537888,M,Weekend,62,9,Unemployed,Restorations,1500-2500,No,NO
+1645,1645,1768,5621520,M,Weekend,25,8,Employed,Braces,30000-40000,Yes,YES
+1646,1646,1769,5587466,F,Weekend,45,6,Employed,Root Canal,6000-10000,Yes,YES
+1647,1647,1770,5638147,F,Weekend,37,10,Employed,Extractions,1000-2000,Yes,NO
+1648,1648,1771,5638174,M,Weekday,10,8,Unemployed,Extractions,1000-2000,No,NO
+1649,1649,1772,5629304,M,Weekday,33,3,Employed,Restorations,1500-2500,Yes,YES
+1650,1650,1773,5640232,F,Weekday,19,5,Unemployed,Restorations,1500-2500,No,NO
+1651,1651,1774,5640816,F,Weekend,33,1,Employed,Restorations,1500-2500,Yes,YES
+1652,1652,1775,5564656,M,Weekday,69,2,Unemployed,Scaling,1000-3000,No,YES
+1653,1653,1776,5638142,F,Weekday,21,8,Unemployed,Root Canal,6000-10000,No,NO
+1654,1654,1777,5630365,F,Weekday,13,2,Unemployed,Scaling,1000-3000,Yes,YES
+1655,1655,1778,5543328,F,Weekday,19,5,Unemployed,Restorations,1500-2500,No,NO
+1656,1656,1779,5637986,F,Weekend,25,7,Employed,Braces,30000-40000,Yes,NO
+1657,1657,1780,5597613,F,Weekday,32,12,Unemployed,Braces,30000-40000,No,NO
+1658,1658,1781,5629906,M,Weekday,10,9,Unemployed,Extractions,1000-2000,No,NO
+1659,1659,1782,5515946,F,Weekend,42,1,Employed,Scaling,1000-3000,Yes,YES
+1660,1660,1783,5640328,M,Weekday,11,10,Unemployed,Scaling,1000-3000,No,NO
+1661,1661,1784,5642318,M,Weekend,47,1,Employed,Braces,30000-40000,Yes,YES
+1662,1662,1785,5534639,F,Weekday,58,4,Employed,Flap Surgery,25000-35000,Yes,YES
+1663,1663,1786,5642894,M,Weekday,24,6,Employed,Braces,30000-40000,Yes,NO
+1664,1664,1787,5575146,F,Weekday,43,5,Employed,Root Canal,6000-10000,Yes,YES
+1665,1665,1788,5640396,F,Weekday,75,12,Unemployed,Root Canal,6000-10000,No,NO
+1666,1666,1789,5575204,M,Weekday,65,8,Unemployed,Dental Implant,30000-40000,No,NO
+1667,1667,1790,5640142,F,Weekday,69,7,Unemployed,Scaling,1000-3000,Yes,NO
+1668,1668,1791,5639979,F,Weekday,13,9,Unemployed,Scaling,1000-3000,Yes,NO
+1669,1669,1792,5642485,F,Weekend,26,12,Employed,Braces,30000-40000,Yes,YES
+1670,1670,1793,5587358,F,Weekday,75,10,Unemployed,Root Canal,6000-10000,No,NO
+1671,1671,1794,5612469,F,Weekday,59,12,Employed,Flap Surgery,25000-35000,Yes,NO
+1672,1672,1795,5638239,F,Weekend,35,9,Employed,Extractions,1000-2000,Yes,NO
+1673,1673,1796,5520645,F,Weekday,13,9,Unemployed,Scaling,1000-3000,Yes,NO
+1674,1674,1797,5587516,F,Weekend,18,3,Unemployed,Restorations,1500-2500,No,YES
+1675,1675,1798,5640550,M,Weekend,14,9,Unemployed,Scaling,1000-3000,No,NO
+1676,1676,1799,5499155,F,Weekday,14,5,Unemployed,Scaling,1000-3000,No,NO
+1677,1677,1800,5640467,F,Weekend,24,10,Employed,Braces,30000-40000,Yes,YES
+1678,1678,1801,5587104,F,Weekend,54,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1679,1679,1802,5590085,M,Weekend,37,9,Employed,Extractions,1000-2000,Yes,NO
+1680,1680,1803,5597632,F,Weekend,50,5,Employed,Braces,30000-40000,Yes,NO
+1681,1681,1804,5530226,M,Weekday,24,8,Employed,Braces,30000-40000,Yes,NO
+1682,1682,1805,5640319,F,Weekday,89,9,Unemployed,Extractions,1000-2000,Yes,NO
+1683,1683,1806,5639589,F,Weekend,36,2,Employed,Extractions,1000-2000,Yes,YES
+1684,1684,1807,5563137,F,Weekend,19,7,Unemployed,Braces,30000-40000,Yes,NO
+1685,1685,1808,5552917,M,Weekend,40,7,Employed,Scaling,1000-3000,Yes,NO
+1686,1686,1809,5576598,F,Weekend,33,7,Employed,Restorations,1500-2500,Yes,NO
+1687,1687,1810,5546335,M,Weekend,61,12,Unemployed,Restorations,1500-2500,Yes,NO
+1688,1688,1811,5639644,F,Weekend,75,3,Unemployed,Root Canal,6000-10000,No,YES
+1689,1689,1812,5488360,M,Weekend,21,4,Unemployed,Root Canal,6000-10000,No,YES
+1690,1690,1813,5533149,F,Weekend,13,7,Unemployed,Scaling,1000-3000,No,NO
+1691,1691,1814,5589516,F,Weekend,54,7,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1692,1692,1815,5639660,M,Weekend,45,2,Employed,Root Canal,6000-10000,Yes,YES
+1693,1693,1816,5536363,F,Weekend,19,8,Unemployed,Restorations,1500-2500,No,NO
+1694,1694,1817,5595967,F,Weekend,61,4,Unemployed,Restorations,1500-2500,No,YES
+1695,1695,1818,5524307,M,Weekend,36,10,Employed,Extractions,1000-2000,Yes,NO
+1696,1696,1819,5642479,F,Weekend,78,2,Unemployed,Fixed Prosthetic Denture,5000-15000,No,YES
+1697,1697,1820,5491017,F,Weekday,76,3,Unemployed,Root Canal,6000-10000,No,YES
+1698,1698,1821,5499164,F,Weekday,58,4,Employed,Flap Surgery,25000-35000,Yes,YES
+1699,1699,1822,5633951,M,Weekend,38,8,Employed,Extractions,1000-2000,Yes,NO
+1700,1700,1823,5639413,F,Weekend,27,3,Employed,Braces,30000-40000,Yes,YES
+1701,1701,1824,5640211,F,Weekday,18,8,Unemployed,Restorations,1500-2500,No,NO
+1702,1702,1825,5639273,F,Weekday,64,11,Unemployed,Restorations,1500-2500,No,NO
+1703,1703,1826,5490707,F,Weekend,35,11,Employed,Extractions,1000-2000,Yes,NO
+1704,1704,1827,5639738,F,Weekend,45,10,Employed,Root Canal,6000-10000,Yes,YES
+1705,1705,1828,5618144,F,Weekday,17,9,Unemployed,Extractions,1000-2000,Yes,NO
+1706,1706,1829,5641574,F,Weekend,56,5,Employed,Dental Implant,30000-40000,Yes,NO
+1707,1707,1830,5435044,M,Weekday,11,8,Unemployed,Scaling,1000-3000,No,NO
+1708,1708,1831,5505078,F,Weekday,13,1,Unemployed,Scaling,1000-3000,No,YES
+1709,1709,1832,5603809,F,Weekend,34,4,Employed,Restorations,1500-2500,Yes,YES
+1710,1710,1833,5521781,M,Weekend,29,6,Employed,Dental Implant,30000-40000,Yes,NO
+1711,1711,1834,5611400,M,Weekend,28,12,Employed,Braces,30000-40000,Yes,YES
+1712,1712,1835,5640945,M,Weekend,32,3,Employed,Restorations,1500-2500,Yes,YES
+1713,1713,1836,5235655,F,Weekend,36,9,Employed,Extractions,1000-2000,Yes,NO
+1714,1714,1837,5592591,M,Weekend,38,3,Employed,Extractions,1000-2000,Yes,YES
+1715,1715,1838,5631101,M,Weekend,13,3,Unemployed,Scaling,1000-3000,No,YES
+1716,1716,1839,5636722,F,Weekend,15,11,Unemployed,Extractions,1000-2000,Yes,NO
+1717,1717,1840,5639976,F,Weekend,24,11,Employed,Braces,30000-40000,Yes,YES
+1718,1718,1841,5624107,M,Weekend,54,1,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1719,1719,1842,5642648,F,Weekend,70,3,Unemployed,Scaling,1000-3000,Yes,YES
+1720,1720,1843,5638309,M,Weekend,53,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1721,1721,1844,5631963,F,Weekend,55,6,Employed,Dental Implant,30000-40000,Yes,NO
+1722,1722,1845,5627543,F,Weekday,20,12,Unemployed,Restorations,1500-2500,No,NO
+1723,1723,1846,5624916,F,Weekend,52,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1724,1724,1847,5627215,M,Weekend,32,4,Employed,Restorations,1500-2500,Yes,YES
+1725,1725,1848,5631105,F,Weekend,37,6,Employed,Extractions,1000-2000,Yes,NO
+1726,1726,1849,5488081,M,Weekday,54,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1727,1727,1850,5592232,F,Weekend,37,3,Employed,Extractions,1000-2000,Yes,YES
+1728,1728,1851,5544381,M,Weekend,43,3,Employed,Root Canal,6000-10000,Yes,YES
+1729,1729,1852,5505017,F,Weekend,25,1,Employed,Braces,30000-40000,Yes,YES
+1730,1730,1853,5628341,M,Weekday,16,7,Unemployed,Extractions,1000-2000,No,NO
+1731,1731,1854,5550370,F,Weekend,27,2,Employed,Braces,30000-40000,Yes,YES
+1732,1732,1855,5510409,F,Weekday,60,10,Employed,Flap Surgery,25000-35000,Yes,NO
+1733,1733,1856,5637880,M,Weekday,80,9,Unemployed,Fixed Prosthetic Denture,5000-15000,No,NO
+1734,1734,1857,5480931,M,Weekday,20,6,Unemployed,Braces,30000-40000,Yes,NO
+1735,1735,1858,5638876,F,Weekend,52,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1736,1736,1859,5539358,M,Weekday,63,11,Unemployed,Restorations,1500-2500,Yes,NO
+1737,1737,1860,5483410,F,Weekend,25,2,Employed,Braces,30000-40000,Yes,YES
+1738,1738,1861,5638857,F,Weekday,18,3,Unemployed,Restorations,1500-2500,No,YES
+1739,1739,1862,5626017,F,Weekday,73,8,Unemployed,Root Canal,6000-10000,Yes,NO
+1740,1740,1863,5539987,F,Weekend,28,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1741,1741,1864,5600346,M,Weekend,37,8,Employed,Extractions,1000-2000,Yes,NO
+1742,1742,1865,5546237,M,Weekday,62,3,Unemployed,Restorations,1500-2500,Yes,YES
+1743,1743,1866,5561189,M,Weekday,72,10,Unemployed,Scaling,1000-3000,Yes,NO
+1744,1744,1867,5635414,M,Weekday,15,12,Unemployed,Extractions,1000-2000,No,NO
+1745,1745,1868,5626092,F,Weekend,43,11,Employed,Root Canal,6000-10000,Yes,YES
+1746,1746,1869,5621514,F,Weekend,24,7,Employed,Braces,30000-40000,Yes,NO
+1747,1747,1870,5601123,F,Weekday,70,10,Unemployed,Scaling,1000-3000,Yes,NO
+1748,1748,1871,5557079,M,Weekend,26,11,Employed,Braces,30000-40000,Yes,YES
+1749,1749,1872,5488289,M,Weekend,42,7,Employed,Scaling,1000-3000,Yes,NO
+1750,1750,1873,5525204,F,Weekend,32,5,Employed,Braces,30000-40000,Yes,NO
+1751,1751,1874,5639387,F,Weekend,25,7,Employed,Braces,30000-40000,Yes,NO
+1752,1752,1875,5589673,M,Weekend,74,11,Unemployed,Root Canal,6000-10000,Yes,NO
+1753,1753,1876,5641034,F,Weekend,76,5,Unemployed,Root Canal,6000-10000,No,NO
+1754,1754,1877,5641261,F,Weekend,16,6,Unemployed,Extractions,1000-2000,No,NO
+1755,1755,1878,5531696,M,Weekend,37,5,Employed,Extractions,1000-2000,Yes,NO
+1756,1756,1879,5638902,M,Weekday,61,6,Unemployed,Restorations,1500-2500,No,NO
+1757,1757,1880,5639242,F,Weekend,52,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1758,1758,1881,5638283,F,Weekday,57,6,Employed,Dental Implant,30000-40000,Yes,NO
+1759,1759,1882,5636832,F,Weekend,25,10,Employed,Braces,30000-40000,Yes,YES
+1760,1760,1883,5640972,M,Weekday,33,11,Employed,Restorations,1500-2500,Yes,NO
+1761,1761,1884,5631974,F,Weekday,17,1,Unemployed,Extractions,1000-2000,No,YES
+1762,1762,1885,5601185,F,Weekday,60,7,Employed,Flap Surgery,25000-35000,Yes,NO
+1763,1763,1886,5560381,F,Weekend,51,8,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1764,1764,1887,5637997,F,Weekday,19,9,Unemployed,Restorations,1500-2500,No,NO
+1765,1765,1888,5601586,M,Weekend,23,2,Unemployed,Root Canal,6000-10000,Yes,YES
+1766,1766,1889,5637787,F,Weekend,75,1,Unemployed,Root Canal,6000-10000,Yes,YES
+1767,1767,1890,5604295,M,Weekend,20,4,Unemployed,Restorations,1500-2500,No,YES
+1768,1768,1891,5637909,F,Weekend,30,7,Employed,Braces,30000-40000,Yes,NO
+1769,1769,1892,5616894,F,Weekend,29,8,Employed,Dental Implant,30000-40000,Yes,YES
+1770,1770,1893,5639260,F,Weekend,53,9,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1771,1771,1894,5607987,F,Weekend,65,2,Unemployed,Dental Implant,30000-40000,Yes,YES
+1772,1772,1895,5588613,M,Weekend,19,2,Unemployed,Restorations,1500-2500,Yes,YES
+1773,1773,1896,5638397,F,Weekend,38,8,Employed,Extractions,1000-2000,Yes,NO
+1774,1774,1897,5541991,F,Weekend,13,7,Unemployed,Scaling,1000-3000,No,NO
+1775,1775,1898,5501518,M,Weekend,23,9,Unemployed,Root Canal,6000-10000,Yes,NO
+1776,1776,1899,5590925,F,Weekend,74,3,Unemployed,Root Canal,6000-10000,Yes,YES
+1777,1777,1900,5624584,F,Weekend,73,11,Unemployed,Root Canal,6000-10000,No,NO
+1778,1778,1901,5600591,F,Weekday,12,9,Unemployed,Scaling,1000-3000,No,NO
+1779,1779,1902,5638809,F,Weekend,41,10,Employed,Scaling,1000-3000,Yes,YES
+1780,1780,1903,5637599,M,Weekday,30,11,Employed,Dental Implant,30000-40000,Yes,NO
+1781,1781,1904,5561246,F,Weekend,31,9,Employed,Restorations,1500-2500,Yes,YES
+1782,1782,1905,5539647,F,Weekend,53,7,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1783,1783,1906,5629170,F,Weekday,40,2,Employed,Scaling,1000-3000,Yes,YES
+1784,1784,1907,5605405,M,Weekday,29,10,Employed,Dental Implant,30000-40000,Yes,NO
+1785,1785,1908,5604762,M,Weekday,11,9,Unemployed,Scaling,1000-3000,No,NO
+1786,1786,1909,5604164,M,Weekday,15,6,Unemployed,Extractions,1000-2000,No,NO
+1787,1787,1910,5521131,M,Weekend,25,7,Employed,Braces,30000-40000,Yes,NO
+1788,1788,1911,5525837,F,Weekday,58,5,Employed,Flap Surgery,25000-35000,Yes,NO
+1789,1789,1912,5640476,F,Weekday,21,5,Unemployed,Root Canal,6000-10000,No,NO
+1790,1790,1913,5581080,M,Weekend,35,5,Employed,Extractions,1000-2000,Yes,NO
+1791,1791,1914,5510389,F,Weekend,54,10,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1792,1792,1915,5638450,F,Weekday,30,11,Employed,Dental Implant,30000-40000,Yes,NO
+1793,1793,1916,5604082,M,Weekday,12,4,Unemployed,Scaling,1000-3000,Yes,YES
+1794,1794,1917,5633115,F,Weekday,22,12,Unemployed,Root Canal,6000-10000,No,NO
+1795,1795,1918,5592805,F,Weekend,51,3,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1796,1796,1919,5641264,M,Weekday,30,3,Employed,Dental Implant,30000-40000,Yes,YES
+1797,1797,1920,5582867,F,Weekday,22,4,Unemployed,Root Canal,6000-10000,No,YES
+1798,1798,1921,5634240,F,Weekend,31,6,Employed,Braces,30000-40000,Yes,NO
+1799,1799,1922,5638586,F,Weekend,25,5,Employed,Braces,30000-40000,Yes,NO
+1800,1800,1923,5638572,F,Weekday,17,2,Unemployed,Extractions,1000-2000,No,YES
+1801,1801,1924,5640871,F,Weekend,36,2,Employed,Extractions,1000-2000,Yes,YES
+1802,1802,1925,5625988,M,Weekend,42,3,Employed,Scaling,1000-3000,Yes,YES
+1803,1803,1926,5641474,F,Weekday,25,8,Employed,Braces,30000-40000,Yes,NO
+1804,1804,1927,5599125,F,Weekend,44,3,Employed,Root Canal,6000-10000,Yes,YES
+1805,1805,1928,5565342,F,Weekend,46,9,Employed,Root Canal,6000-10000,Yes,YES
+1806,1806,1929,5555285,M,Weekend,37,11,Employed,Extractions,1000-2000,Yes,NO
+1807,1807,1930,5641065,F,Weekend,38,5,Employed,Extractions,1000-2000,Yes,NO
+1808,1808,1931,5595396,F,Weekend,28,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1809,1809,1932,5482953,M,Weekday,29,3,Employed,Dental Implant,30000-40000,Yes,YES
+1810,1810,1933,5533852,M,Weekday,56,3,Employed,Dental Implant,30000-40000,Yes,YES
+1811,1811,1934,5508748,F,Weekday,17,6,Unemployed,Extractions,1000-2000,No,NO
+1812,1812,1935,5629058,M,Weekday,71,7,Unemployed,Scaling,1000-3000,Yes,NO
+1813,1813,1936,5634193,F,Weekday,23,9,Unemployed,Root Canal,6000-10000,Yes,NO
+1814,1814,1937,5534361,F,Weekend,34,8,Employed,Restorations,1500-2500,Yes,YES
+1815,1815,1938,5631417,F,Weekend,39,4,Employed,Scaling,1000-3000,Yes,YES
+1816,1816,1939,5641413,F,Weekend,56,12,Employed,Dental Implant,30000-40000,Yes,YES
+1817,1817,1940,5612780,M,Weekend,13,8,Unemployed,Scaling,1000-3000,No,NO
+1818,1818,1941,5603805,F,Weekend,42,11,Employed,Scaling,1000-3000,Yes,YES
+1819,1819,1942,5616297,F,Weekend,59,7,Employed,Flap Surgery,25000-35000,Yes,NO
+1820,1820,1943,5634164,F,Weekend,18,2,Unemployed,Restorations,1500-2500,No,YES
+1821,1821,1944,5577238,F,Weekend,31,5,Employed,Restorations,1500-2500,Yes,NO
+1822,1822,1945,5621404,F,Weekday,17,10,Unemployed,Extractions,1000-2000,Yes,NO
+1823,1823,1946,5565944,F,Weekday,34,1,Employed,Restorations,1500-2500,Yes,YES
+1824,1824,1947,5618139,F,Weekend,43,12,Employed,Root Canal,6000-10000,Yes,YES
+1825,1825,1948,5590628,M,Weekday,23,4,Unemployed,Root Canal,6000-10000,Yes,YES
+1826,1826,1949,5472443,F,Weekend,43,6,Employed,Root Canal,6000-10000,Yes,YES
+1827,1827,1950,5540612,M,Weekend,32,7,Employed,Restorations,1500-2500,Yes,NO
+1828,1828,1951,5637367,M,Weekday,26,2,Employed,Braces,30000-40000,Yes,YES
+1829,1829,1952,5638715,M,Weekday,13,8,Unemployed,Scaling,1000-3000,Yes,NO
+1830,1830,1953,5631071,M,Weekday,45,9,Employed,Root Canal,6000-10000,Yes,NO
+1831,1831,1954,5511476,F,Weekday,16,4,Unemployed,Extractions,1000-2000,No,YES
+1832,1832,1955,5218520,F,Weekend,45,11,Employed,Root Canal,6000-10000,Yes,YES
+1833,1833,1956,5638118,F,Weekend,13,4,Unemployed,Scaling,1000-3000,No,YES
+1834,1834,1957,5626352,F,Weekend,32,1,Employed,Restorations,1500-2500,Yes,YES
+1835,1835,1958,5642394,M,Weekend,57,1,Employed,Dental Implant,30000-40000,Yes,YES
+1836,1836,1959,5479226,M,Weekend,52,11,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1837,1837,1960,5626772,F,Holiday,25,3,Employed,Braces,30000-40000,Yes,YES
+1838,1838,1961,5634159,F,Weekend,25,10,Employed,Braces,30000-40000,Yes,YES
+1839,1839,1962,5531870,M,Weekend,39,6,Employed,Scaling,1000-3000,Yes,NO
+1840,1840,1963,5633339,F,Holiday,34,7,Employed,Restorations,1500-2500,Yes,NO
+1841,1841,1964,5601846,F,Holiday,14,6,Unemployed,Scaling,1000-3000,No,NO
+1842,1842,1965,5584709,F,Weekend,46,5,Employed,Root Canal,6000-10000,Yes,YES
+1843,1843,1966,5631098,F,Weekend,27,4,Employed,Fixed Prosthetic Denture,5000-15000,Yes,YES
+1844,1844,1967,5638358,F,Holiday,18,2,Unemployed,Restorations,1500-2500,No,YES
+1845,1845,1968,5612982,F,Weekend,45,11,Employed,Root Canal,6000-10000,Yes,YES
+1846,1846,1969,5623002,F,Weekend,32,12,Employed,Restorations,1500-2500,Yes,YES
